@@ -22,6 +22,7 @@
   },
   "111975": {
    "first_seen": 1790857800,
+   "missing_since": 1790891047,
    "name": "_AL GAZZAR_",
    "score": 13127
   },
@@ -54,6 +55,11 @@
    "first_seen": 1790857800,
    "name": "ASTA",
    "score": 130954
+  },
+  "112518": {
+   "first_seen": 1790891047,
+   "name": "DeniBoy",
+   "score": 3961284
   },
   "112616": {
    "first_seen": 1790857800,
@@ -122,6 +128,7 @@
   },
   "113711": {
    "first_seen": 1790857800,
+   "missing_since": 1790891047,
    "name": "RIP Banks",
    "score": 91793
   },
@@ -1707,6 +1714,7 @@
   },
   "45821793": {
    "first_seen": 1790857800,
+   "missing_since": 1790891047,
    "name": "Icarus-33421161",
    "score": 61
   },
