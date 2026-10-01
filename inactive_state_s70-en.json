@@ -438,6 +438,7 @@
   },
   "118023": {
    "first_seen": 1790857800,
+   "missing_since": 1790894438,
    "name": "SylowP",
    "score": 3767833
   },
@@ -519,6 +520,7 @@
   },
   "118522": {
    "first_seen": 1790857800,
+   "missing_since": 1790894438,
    "name": "Alpharius",
    "score": 90265
   },
@@ -602,6 +604,11 @@
    "name": "Adonis-0301",
    "score": 117556
   },
+  "119907": {
+   "first_seen": 1790894438,
+   "name": "MAGA",
+   "score": 52919
+  },
   "120443": {
    "first_seen": 1790857800,
    "name": "Pravo3",
@@ -644,6 +651,7 @@
   },
   "120917": {
    "first_seen": 1790857800,
+   "missing_since": 1790894438,
    "name": "laconic",
    "score": 6553006
   },
@@ -654,6 +662,7 @@
   },
   "121211": {
    "first_seen": 1790857800,
+   "missing_since": 1790894438,
    "name": "Mogis",
    "score": 593862
   },
@@ -661,6 +670,11 @@
    "first_seen": 1790857800,
    "name": "Optimuss",
    "score": 53807
+  },
+  "121355": {
+   "first_seen": 1790894438,
+   "name": "Champ_02",
+   "score": 123368
   },
   "121359": {
    "first_seen": 1790857800,
@@ -681,6 +695,11 @@
    "first_seen": 1790857800,
    "name": "Shanji",
    "score": 24182
+  },
+  "121411": {
+   "first_seen": 1790894438,
+   "name": "ZDS 2",
+   "score": 318463
   },
   "121561": {
    "first_seen": 1790857800,
@@ -924,21 +943,25 @@
   },
   "122384": {
    "first_seen": 1790857800,
+   "missing_since": 1790894438,
    "name": "Nesteidzos",
    "score": 56789
   },
   "122390": {
    "first_seen": 1790857800,
+   "missing_since": 1790894438,
    "name": "Hektors",
    "score": 446732
   },
   "122414": {
    "first_seen": 1790857800,
+   "missing_since": 1790894438,
    "name": "VOLVO",
    "score": 299339
   },
   "122443": {
    "first_seen": 1790857800,
+   "missing_since": 1790894438,
    "name": "Namejs",
    "score": 657320
   },
@@ -947,6 +970,11 @@
    "name": "Ussop",
    "score": 13158
   },
+  "122514": {
+   "first_seen": 1790894438,
+   "name": "Luffy",
+   "score": 38774
+  },
   "122515": {
    "first_seen": 1790857800,
    "name": "Shanks",
@@ -954,6 +982,7 @@
   },
   "122517": {
    "first_seen": 1790857800,
+   "missing_since": 1790894438,
    "name": "Jimbei",
    "score": 593105
   },
@@ -961,6 +990,11 @@
    "first_seen": 1790857800,
    "name": "big g",
    "score": 42796
+  },
+  "122555": {
+   "first_seen": 1790894438,
+   "name": "Spartan 0",
+   "score": 20301
   },
   "122571": {
    "first_seen": 1790857800,
@@ -1037,6 +1071,11 @@
    "name": "WHY59k",
    "score": 58420
   },
+  "122709": {
+   "first_seen": 1790894438,
+   "name": "Agamemnon-15400",
+   "score": 120143
+  },
   "122710": {
    "first_seen": 1790857800,
    "name": "Herakles-4653",
@@ -1059,6 +1098,7 @@
   },
   "122760": {
    "first_seen": 1790857800,
+   "missing_since": 1790894438,
    "name": "ZOR Prime",
    "score": 11008761
   },
@@ -1534,6 +1574,11 @@
    "name": "deuses5180",
    "score": 126
   },
+  "34447048": {
+   "first_seen": 1790894438,
+   "name": "bigdataspeciali",
+   "score": 253
+  },
   "34448742": {
    "first_seen": 1790857800,
    "name": "4206910",
@@ -1627,6 +1672,7 @@
   },
   "39766192": {
    "first_seen": 1790857800,
+   "missing_since": 1790894438,
    "name": "BWM",
    "score": 120054
   },
@@ -1735,6 +1781,11 @@
    "name": "FlameTwist",
    "score": 204158
   },
+  "42660720": {
+   "first_seen": 1790894438,
+   "name": "29kd-1b-24-09",
+   "score": 28212
+  },
   "43201406": {
    "first_seen": 1790857800,
    "name": "Aladin6074",
@@ -1754,6 +1805,11 @@
    "first_seen": 1790857800,
    "name": "Lusitano678",
    "score": 140354
+  },
+  "43212333": {
+   "first_seen": 1790894438,
+   "name": "Ww10",
+   "score": 5757
   },
   "43714021": {
    "first_seen": 1790857800,
@@ -2305,6 +2361,11 @@
    "name": "adam16445920",
    "score": 4892837
   },
+  "59111609": {
+   "first_seen": 1790894438,
+   "name": "C1B6K3650",
+   "score": 137947
+  },
   "59112024": {
    "first_seen": 1790857800,
    "name": "Palamedes-92929",
@@ -2686,6 +2747,7 @@
   },
   "70487910": {
    "first_seen": 1790857800,
+   "missing_since": 1790894438,
    "name": "Herakles-3653",
    "score": 60
   },
