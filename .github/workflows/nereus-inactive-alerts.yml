@@ -1,0 +1,56 @@
+# Put this file in your repository at:  .github/workflows/nereus-inactive-alerts.yml
+# Runs nereus_inactive_alerts.py on GitHub's servers every 15 minutes.
+# Uses the NEREUS_WEBHOOK_URL secret if you add one (to post in a different channel),
+# otherwise the DISCORD_WEBHOOK_URL secret.
+
+name: Nereus inactive alerts
+
+on:
+  schedule:
+    - cron: "11,26,41,56 * * * *"   # every 15 min, offset from the other trackers
+  workflow_dispatch:                 # adds a "Run workflow" button on the Actions tab
+    inputs:
+      test:
+        description: "Only send a test alert"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write                    # lets the job save its list of seen players
+
+concurrency:
+  group: nereus-inactive-alerts      # never run two checks at once
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref_name }}    # newest commit, so the saved list is never stale
+
+      - name: Check IkaTracker for new Nereus inactives
+        env:
+          NEREUS_WEBHOOK_URL: ${{ secrets.NEREUS_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python3 nereus_inactive_alerts.py ${{ inputs.test && '--test' || '--once' }}
+
+      - name: Save list of seen players
+        if: ${{ !cancelled() && !inputs.test }}
+        run: |
+          if [ -n "$(git status --porcelain -- inactive_state_s70-en.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+            git add -- inactive_state_s70-en.json
+            git commit -m "Update Nereus inactive list"
+            for attempt in 1 2 3; do
+              if git pull --rebase --autostash --quiet && git push; then
+                exit 0
+              fi
+              sleep $((attempt * 5))
+            done
+            exit 1
+          else
+            echo "Nothing new to save."
+          fi
