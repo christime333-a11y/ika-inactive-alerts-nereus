@@ -2,6 +2,7 @@
  "players": {
   "1030670": {
    "first_seen": 1790857800,
+   "missing_since": 1790893411,
    "name": "ja2-Fighte",
    "score": 2625
   },
@@ -228,6 +229,11 @@
    "name": "janja44",
    "score": 817833
   },
+  "114854": {
+   "first_seen": 1790893411,
+   "name": "Raimondij",
+   "score": 2233478
+  },
   "114926": {
    "first_seen": 1790857800,
    "name": "xorkatoss",
@@ -385,6 +391,31 @@
    "name": "deegaa",
    "score": 2047995
   },
+  "117719": {
+   "first_seen": 1790893411,
+   "name": "Alex64",
+   "score": 31872
+  },
+  "117730": {
+   "first_seen": 1790893411,
+   "name": "ΦΑΡΑΩ",
+   "score": 194422
+  },
+  "117731": {
+   "first_seen": 1790893411,
+   "name": "alex0725956",
+   "score": 155454
+  },
+  "117753": {
+   "first_seen": 1790893411,
+   "name": "eleon1",
+   "score": 12678
+  },
+  "117859": {
+   "first_seen": 1790893411,
+   "name": "Ebundis",
+   "score": 426184
+  },
   "117871": {
    "first_seen": 1790857800,
    "name": "aCaBBris",
@@ -399,6 +430,11 @@
    "first_seen": 1790857800,
    "name": "Miner G",
    "score": 477318
+  },
+  "117957": {
+   "first_seen": 1790893411,
+   "name": "Ronis78",
+   "score": 43483813
   },
   "118023": {
    "first_seen": 1790857800,
@@ -477,6 +513,7 @@
   },
   "118521": {
    "first_seen": 1790857800,
+   "missing_since": 1790893411,
    "name": "Omegon",
    "score": 86391
   },
@@ -1205,6 +1242,11 @@
    "name": "LOLOLOLOL",
    "score": 34170
   },
+  "13889320": {
+   "first_seen": 1790893411,
+   "name": "Bishop",
+   "score": 2058856
+  },
   "143907": {
    "first_seen": 1790857800,
    "name": "sangeren",
@@ -1345,6 +1387,11 @@
    "name": "Looklonely",
    "score": 327047
   },
+  "21781710": {
+   "first_seen": 1790893411,
+   "name": "babagida229",
+   "score": 12642
+  },
   "21816963": {
    "first_seen": 1790857800,
    "name": "BenHo",
@@ -1352,6 +1399,7 @@
   },
   "218379": {
    "first_seen": 1790857800,
+   "missing_since": 1790893411,
    "name": "Al Ostora96M",
    "score": 297447
   },
@@ -1508,6 +1556,7 @@
   },
   "35539701": {
    "first_seen": 1790857800,
+   "missing_since": 1790893411,
    "name": "Guliveras LT63",
    "score": 2167
   },
@@ -2619,6 +2668,7 @@
   },
   "68298486": {
    "first_seen": 1790857800,
+   "missing_since": 1790893411,
    "name": "Mene",
    "score": 1765
   },
