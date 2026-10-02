@@ -462,6 +462,21 @@
    "name": "aCaBBris",
    "score": 243298
   },
+  "117880": {
+   "first_seen": 1790964456,
+   "name": "Sponsors",
+   "score": 3630841
+  },
+  "117881": {
+   "first_seen": 1790964456,
+   "name": "Aidss",
+   "score": 4570693
+  },
+  "117905": {
+   "first_seen": 1790964456,
+   "name": "Hermejs",
+   "score": 4571363
+  },
   "117919": {
    "first_seen": 1790857800,
    "name": "Alpha",
@@ -590,6 +605,16 @@
    "name": "Laila",
    "score": 368295
   },
+  "118910": {
+   "first_seen": 1790964456,
+   "name": "TheHornet",
+   "score": 4913243
+  },
+  "118911": {
+   "first_seen": 1790964456,
+   "name": "Zevs",
+   "score": 4597605
+  },
   "118977": {
    "first_seen": 1790857800,
    "name": "Orion Elder",
@@ -650,6 +675,11 @@
    "name": "MAGA",
    "score": 52919
   },
+  "119915": {
+   "first_seen": 1790964456,
+   "name": "TheIrsis",
+   "score": 3678856
+  },
   "120443": {
    "first_seen": 1790857800,
    "name": "Pravo3",
@@ -698,6 +728,7 @@
   },
   "121173": {
    "first_seen": 1790857800,
+   "missing_since": 1790964456,
    "name": "Jason-3175",
    "score": 15578
   },
@@ -724,16 +755,19 @@
   },
   "121364": {
    "first_seen": 1790857800,
+   "missing_since": 1790964456,
    "name": "Rorona Zoro",
    "score": 14804
   },
   "121367": {
    "first_seen": 1790857800,
+   "missing_since": 1790964456,
    "name": "Nami",
    "score": 61457
   },
   "121368": {
    "first_seen": 1790857800,
+   "missing_since": 1790964456,
    "name": "Shanji",
    "score": 24182
   },
@@ -1023,6 +1057,7 @@
   },
   "122515": {
    "first_seen": 1790857800,
+   "missing_since": 1790964456,
    "name": "Shanks",
    "score": 38724
   },
@@ -2553,6 +2588,7 @@
   },
   "6084687": {
    "first_seen": 1790857800,
+   "missing_since": 1790964456,
    "name": "DONATO-UNO",
    "score": 56360
   },
@@ -2869,6 +2905,11 @@
    "first_seen": 1790963531,
    "name": "Icarus-7810",
    "score": 118
+  },
+  "70485001": {
+   "first_seen": 1790964456,
+   "name": "Adonis-0610",
+   "score": 113
   },
   "70487910": {
    "first_seen": 1790857800,
