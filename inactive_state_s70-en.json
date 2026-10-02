@@ -13,6 +13,7 @@
   },
   "111615": {
    "first_seen": 1790857800,
+   "missing_since": 1790962164,
    "name": "Bold",
    "score": 3721
   },
@@ -36,6 +37,11 @@
    "first_seen": 1790857800,
    "name": "Chelsea140",
    "score": 160276
+  },
+  "112079": {
+   "first_seen": 1790962164,
+   "name": "King Arthur513",
+   "score": 1174527
   },
   "112217": {
    "first_seen": 1790857800,
@@ -64,6 +70,7 @@
   },
   "112315": {
    "first_seen": 1790892233,
+   "missing_since": 1790962164,
    "name": "Dane_Petrol",
    "score": 20444806
   },
@@ -150,6 +157,11 @@
    "name": "RIP Banks",
    "score": 91793
   },
+  "113811": {
+   "first_seen": 1790962164,
+   "name": "Katusshe",
+   "score": 2323782
+  },
   "113965": {
    "first_seen": 1790857800,
    "missing_since": 1790892233,
@@ -210,6 +222,7 @@
   },
   "114591": {
    "first_seen": 1790857800,
+   "missing_since": 1790962164,
    "name": "HungryChicken",
    "score": 98571
   },
@@ -312,11 +325,13 @@
   },
   "115549": {
    "first_seen": 1790892233,
+   "missing_since": 1790962164,
    "name": "1 pipars ciemaa",
    "score": 55782988
   },
   "115586": {
    "first_seen": 1790895306,
+   "missing_since": 1790962164,
    "name": "cut9898",
    "score": 122746090
   },
@@ -1874,6 +1889,11 @@
    "name": "Hanno",
    "score": 241870
   },
+  "45288140": {
+   "first_seen": 1790962164,
+   "name": "858",
+   "score": 858
+  },
   "45308691": {
    "first_seen": 1790857800,
    "name": "saka 7 s2",
@@ -1899,8 +1919,14 @@
    "name": "Dra9040809",
    "score": 3114983
   },
+  "45821471": {
+   "first_seen": 1790962164,
+   "name": "Atlas-5268",
+   "score": 2729
+  },
   "45821793": {
    "first_seen": 1790857800,
+   "missing_since": 1790962164,
    "name": "Icarus-33421161",
    "score": 61
   },
@@ -2838,6 +2864,31 @@
    "first_seen": 1790857800,
    "name": "choso",
    "score": 30370
+  },
+  "71554038": {
+   "first_seen": 1790962164,
+   "name": "Le Duc Anh",
+   "score": 171
+  },
+  "72103091": {
+   "first_seen": 1790962164,
+   "name": "Herakles-2398",
+   "score": 113
+  },
+  "72103701": {
+   "first_seen": 1790962164,
+   "name": "Adonis-7925",
+   "score": 113
+  },
+  "72639123": {
+   "first_seen": 1790962164,
+   "name": "Pollux-6450",
+   "score": 113
+  },
+  "72639306": {
+   "first_seen": 1790962164,
+   "name": "Menelaus-6885",
+   "score": 113
   },
   "7638911": {
    "first_seen": 1790857800,
