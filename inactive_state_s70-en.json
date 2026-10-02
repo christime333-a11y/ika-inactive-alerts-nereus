@@ -697,6 +697,7 @@
   },
   "120462": {
    "first_seen": 1790857800,
+   "missing_since": 1790965867,
    "name": "Zeta cadet",
    "score": 4177190
   },
@@ -775,6 +776,11 @@
    "first_seen": 1790894438,
    "name": "ZDS 2",
    "score": 318463
+  },
+  "121437": {
+   "first_seen": 1790965867,
+   "name": "Spartan 6",
+   "score": 60261
   },
   "121561": {
    "first_seen": 1790857800,
@@ -1047,11 +1053,13 @@
   },
   "122513": {
    "first_seen": 1790857800,
+   "missing_since": 1790965867,
    "name": "Ussop",
    "score": 13158
   },
   "122514": {
    "first_seen": 1790894438,
+   "missing_since": 1790965867,
    "name": "Luffy",
    "score": 38774
   },
@@ -1069,6 +1077,7 @@
   },
   "122521": {
    "first_seen": 1790857800,
+   "missing_since": 1790965867,
    "name": "big g",
    "score": 42796
   },
@@ -1235,6 +1244,7 @@
   },
   "123075": {
    "first_seen": 1790857800,
+   "missing_since": 1790965867,
    "name": "MilkeSRB",
    "score": 1299196
   },
@@ -1297,6 +1307,11 @@
    "first_seen": 1790895306,
    "name": "Poppy",
    "score": 1826116
+  },
+  "123745": {
+   "first_seen": 1790965867,
+   "name": "Thyrarex",
+   "score": 16072983
   },
   "123839": {
    "first_seen": 1790857800,
@@ -1370,6 +1385,7 @@
   },
   "125992": {
    "first_seen": 1790857800,
+   "missing_since": 1790965867,
    "name": "LOLOLOLOL",
    "score": 34170
   },
@@ -1486,6 +1502,7 @@
   },
   "184644": {
    "first_seen": 1790857800,
+   "missing_since": 1790965867,
    "name": "piccolo675",
    "score": 2936
   },
@@ -1714,16 +1731,19 @@
   },
   "37086583": {
    "first_seen": 1790857800,
+   "missing_since": 1790965867,
    "name": "Tilker",
    "score": 5244525
   },
   "37090785": {
    "first_seen": 1790857800,
+   "missing_since": 1790965867,
    "name": "blast",
    "score": 1365
   },
   "37096731": {
    "first_seen": 1790857800,
+   "missing_since": 1790965867,
    "name": "Medusa12",
    "score": 23525524
   },
@@ -1739,6 +1759,7 @@
   },
   "37146553": {
    "first_seen": 1790857800,
+   "missing_since": 1790965867,
    "name": "mehdi jojo",
    "score": 90005802
   },
@@ -2423,6 +2444,7 @@
   },
   "56985262": {
    "first_seen": 1790857800,
+   "missing_since": 1790965867,
    "name": "العب بعيييدx",
    "score": 409
   },
@@ -2596,6 +2618,11 @@
    "first_seen": 1790857800,
    "name": "Visvaldis209",
    "score": 15539
+  },
+  "6091201": {
+   "first_seen": 1790965867,
+   "name": "pznkobrod",
+   "score": 7742
   },
   "61233087": {
    "first_seen": 1790857800,
@@ -2874,6 +2901,11 @@
    "name": "Mene",
    "score": 1765
   },
+  "68299632": {
+   "first_seen": 1790965867,
+   "name": "Mousy",
+   "score": 1928531
+  },
   "68311766": {
    "first_seen": 1790895306,
    "name": "hadu3589498",
@@ -2888,6 +2920,11 @@
    "first_seen": 1790963531,
    "name": "dennizko",
    "score": 202945
+  },
+  "69394996": {
+   "first_seen": 1790965867,
+   "name": "35s",
+   "score": 18470
   },
   "69921775": {
    "first_seen": 1790857800,
