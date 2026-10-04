@@ -2,6 +2,7 @@
  "players": {
   "1030669": {
    "first_seen": 1790895306,
+   "missing_since": 1791110185,
    "name": "Ja irn",
    "score": 7601
   },
@@ -13,6 +14,7 @@
   },
   "111461": {
    "first_seen": 1791037999,
+   "missing_since": 1791110185,
    "name": "Taffel",
    "score": 7297
   },
@@ -29,11 +31,13 @@
   },
   "111768": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "Piratа",
    "score": 447104
   },
   "111943": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "Stanimircv",
    "score": 706
   },
@@ -50,6 +54,7 @@
   },
   "112033": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "Chelsea140",
    "score": 160276
   },
@@ -94,6 +99,11 @@
    "name": "Dane_Petrol",
    "score": 20444806
   },
+  "112384": {
+   "first_seen": 1791110185,
+   "name": "SpartanFury",
+   "score": 23357
+  },
   "112483": {
    "first_seen": 1791037999,
    "name": "Space",
@@ -108,6 +118,16 @@
    "first_seen": 1790891047,
    "name": "DeniBoy",
    "score": 3961284
+  },
+  "112588": {
+   "first_seen": 1791110185,
+   "name": "OlympianEdge",
+   "score": 13107
+  },
+  "11261051": {
+   "first_seen": 1791110185,
+   "name": "Aky",
+   "score": 5312077
   },
   "112616": {
    "first_seen": 1790857800,
@@ -147,6 +167,7 @@
   },
   "113244": {
    "first_seen": 1791037999,
+   "missing_since": 1791110185,
    "name": "Lukshys",
    "score": 6997
   },
@@ -162,11 +183,13 @@
   },
   "113334": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "Phantom297",
    "score": 452248
   },
   "113409": {
    "first_seen": 1791037999,
+   "missing_since": 1791110185,
    "name": "Krank17",
    "score": 1311750
   },
@@ -195,6 +218,11 @@
    "first_seen": 1790857800,
    "name": "Ddadeddiks",
    "score": 12197
+  },
+  "113688": {
+   "first_seen": 1791110185,
+   "name": "Aetherius",
+   "score": 19064
   },
   "113711": {
    "first_seen": 1790857800,
@@ -283,6 +311,11 @@
    "name": "MobiliGradovi",
    "score": 14224
   },
+  "114326": {
+   "first_seen": 1791110185,
+   "name": "Vaari6",
+   "score": 19569415
+  },
   "114488": {
    "first_seen": 1790857800,
    "name": "GodBlessYou",
@@ -307,6 +340,7 @@
   },
   "114590": {
    "first_seen": 1791037999,
+   "missing_since": 1791110185,
    "name": "cool7658",
    "score": 12222
   },
@@ -406,6 +440,11 @@
    "first_seen": 1790857800,
    "name": "dSensei051",
    "score": 22277
+  },
+  "115243": {
+   "first_seen": 1791110185,
+   "name": "Zephyros",
+   "score": 4531
   },
   "115260": {
    "first_seen": 1790857800,
@@ -517,6 +556,7 @@
   },
   "117285": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "DS-437M",
    "score": 312
   },
@@ -527,6 +567,7 @@
   },
   "117297": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "DS-405M",
    "score": 312
   },
@@ -538,16 +579,29 @@
   },
   "117372": {
    "first_seen": 1791037999,
+   "missing_since": 1791110185,
    "name": "Tydeusz",
    "score": 169400
   },
+  "117469": {
+   "first_seen": 1791110185,
+   "name": "Hrhk",
+   "score": 3438
+  },
+  "117475": {
+   "first_seen": 1791110185,
+   "name": "Luka",
+   "score": 4155
+  },
   "117532": {
    "first_seen": 1791037999,
+   "missing_since": 1791110185,
    "name": "Kejser",
    "score": 49904320
   },
   "117549": {
    "first_seen": 1791037999,
+   "missing_since": 1791110185,
    "name": "Heraka",
    "score": 269201
   },
@@ -576,6 +630,11 @@
    "first_seen": 1790893411,
    "name": "eleon1",
    "score": 12678
+  },
+  "117841": {
+   "first_seen": 1791110185,
+   "name": "Prichard",
+   "score": 1550720
   },
   "117859": {
    "first_seen": 1790893411,
@@ -653,11 +712,13 @@
   },
   "118231": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "Ranger",
    "score": 1511042
   },
   "118232": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "DS-568M",
    "score": 306
   },
@@ -668,21 +729,25 @@
   },
   "118243": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "DS-170M",
    "score": 127
   },
   "118244": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "Theseus-9632",
    "score": 8851
   },
   "118248": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "DS-567M",
    "score": 199
   },
   "118265": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "DS-187M",
    "score": 1106
   },
@@ -738,6 +803,11 @@
    "name": "kickass3",
    "score": 18812
   },
+  "118882": {
+   "first_seen": 1791110185,
+   "name": "NereusSWGS1aASP",
+   "score": 51038
+  },
   "118886": {
    "first_seen": 1790857800,
    "name": "Laila",
@@ -770,6 +840,11 @@
    "name": "Uchiha 88",
    "score": 541775
   },
+  "119052": {
+   "first_seen": 1791110185,
+   "name": "Carol",
+   "score": 285411
+  },
   "119077": {
    "first_seen": 1790857800,
    "name": "Menelaus-607307",
@@ -787,6 +862,7 @@
   },
   "119182": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "nikolas",
    "score": 6834284
   },
@@ -802,16 +878,19 @@
   },
   "119363": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "DS-355M",
    "score": 1746
   },
   "119366": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "Agamemnon-0079",
    "score": 3486
   },
   "119407": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "Saturo",
    "score": 147496
   },
@@ -819,6 +898,11 @@
    "first_seen": 1790857800,
    "name": "June5",
    "score": 49337
+  },
+  "119803": {
+   "first_seen": 1791110185,
+   "name": "Karštuolis",
+   "score": 3684320
   },
   "119886": {
    "first_seen": 1790857800,
@@ -869,6 +953,7 @@
   },
   "120588": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "araxtos",
    "score": 1427224
   },
@@ -904,6 +989,26 @@
    "missing_since": 1790894438,
    "name": "Mogis",
    "score": 593862
+  },
+  "121213": {
+   "first_seen": 1791110185,
+   "name": "noones",
+   "score": 8973934
+  },
+  "121230": {
+   "first_seen": 1791110185,
+   "name": "Muhamedas ally",
+   "score": 23248211
+  },
+  "121236": {
+   "first_seen": 1791110185,
+   "name": "TaBU",
+   "score": 716885
+  },
+  "121238": {
+   "first_seen": 1791110185,
+   "name": "SeEker",
+   "score": 67833
   },
   "121239": {
    "first_seen": 1790857800,
@@ -1143,6 +1248,11 @@
    "name": "Mravo6",
    "score": 7064
   },
+  "121875": {
+   "first_seen": 1791110185,
+   "name": "Sebola11",
+   "score": 11854
+  },
   "121877": {
    "first_seen": 1790857800,
    "name": "Jravo2",
@@ -1188,6 +1298,11 @@
    "name": "0r1pt0",
    "score": 3712607
   },
+  "121946": {
+   "first_seen": 1791110185,
+   "name": "Bruno Gröning",
+   "score": 52425
+  },
   "121977": {
    "first_seen": 1790857800,
    "missing_since": 1791037999,
@@ -1219,6 +1334,21 @@
    "name": "James241",
    "score": 10726191
   },
+  "122323": {
+   "first_seen": 1791110185,
+   "name": "Deagle91",
+   "score": 2856
+  },
+  "122326": {
+   "first_seen": 1791110185,
+   "name": "Peleus6652",
+   "score": 4776
+  },
+  "122330": {
+   "first_seen": 1791110185,
+   "name": "Peleus-161",
+   "score": 1389
+  },
   "122380": {
    "first_seen": 1790857800,
    "missing_since": 1791037999,
@@ -1249,8 +1379,14 @@
    "name": "Namejs",
    "score": 657320
   },
+  "122486": {
+   "first_seen": 1791110185,
+   "name": "Lion cika",
+   "score": 4208517
+  },
   "122494": {
    "first_seen": 1791037999,
+   "missing_since": 1791110185,
    "name": "Shama",
    "score": 81283
   },
@@ -1582,6 +1718,7 @@
   },
   "122984": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "H-3",
    "score": 193
   },
@@ -1626,6 +1763,11 @@
    "first_seen": 1790857800,
    "name": "ITACHI off",
    "score": 7204833
+  },
+  "123432": {
+   "first_seen": 1791110185,
+   "name": "Naslaitis",
+   "score": 7806373
   },
   "123481": {
    "first_seen": 1790857800,
@@ -1706,6 +1848,11 @@
    "first_seen": 1790857800,
    "name": "O3y5m",
    "score": 536
+  },
+  "124072": {
+   "first_seen": 1791110185,
+   "name": "SalesT",
+   "score": 22365
   },
   "124084": {
    "first_seen": 1790857800,
@@ -1798,6 +1945,11 @@
    "first_seen": 1790857800,
    "name": "Lust127",
    "score": 36775
+  },
+  "15460909": {
+   "first_seen": 1791110185,
+   "name": "EsFi23659547781",
+   "score": 7001030
   },
   "162721": {
    "first_seen": 1790857800,
@@ -1906,6 +2058,7 @@
   },
   "184615": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "Rodrigao",
    "score": 28112
   },
@@ -2012,6 +2165,11 @@
    "name": "Atlas-9988",
    "score": 695
   },
+  "25491177": {
+   "first_seen": 1791110185,
+   "name": "Guy Fawkes0082",
+   "score": 6762
+  },
   "25516923": {
    "first_seen": 1790857800,
    "name": "KiwiJr",
@@ -2110,6 +2268,7 @@
   },
   "34448742": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "4206910",
    "score": 1937264
   },
@@ -2317,6 +2476,11 @@
    "name": "FlameTwist",
    "score": 204158
   },
+  "42658286": {
+   "first_seen": 1791110185,
+   "name": "Veritas Ratio",
+   "score": 2365
+  },
   "42660720": {
    "first_seen": 1790894438,
    "name": "29kd-1b-24-09",
@@ -2399,6 +2563,7 @@
   },
   "45821471": {
    "first_seen": 1790962164,
+   "missing_since": 1791110185,
    "name": "Atlas-5268",
    "score": 2729
   },
@@ -2472,6 +2637,7 @@
   },
   "48456860": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "ErősPista",
    "score": 1617
   },
@@ -2579,6 +2745,11 @@
    "first_seen": 1790857800,
    "name": "Odysseus-646490",
    "score": 364229
+  },
+  "52702218": {
+   "first_seen": 1791110185,
+   "name": "homez222",
+   "score": 79811
   },
   "52702219": {
    "first_seen": 1790857800,
@@ -3238,6 +3409,7 @@
   },
   "65041035": {
    "first_seen": 1790857800,
+   "missing_since": 1791110185,
    "name": "Zelda60",
    "score": 392
   },
@@ -3377,6 +3549,11 @@
    "name": "LeanArg",
    "score": 36824
   },
+  "69374749": {
+   "first_seen": 1791110185,
+   "name": "Oopsie",
+   "score": 424894
+  },
   "69391440": {
    "first_seen": 1791037999,
    "name": "KafrosPalad7167",
@@ -3398,9 +3575,13 @@
    "name": "LampOil 17614",
    "score": 210
   },
+  "69945418": {
+   "first_seen": 1791110185,
+   "name": "wompa6956536431",
+   "score": 458090
+  },
   "70469134": {
    "first_seen": 1790857800,
-   "missing_since": 1790892233,
    "name": "Daedalus-5522",
    "score": 60
   },
@@ -3417,9 +3598,13 @@
   },
   "70487910": {
    "first_seen": 1790857800,
-   "missing_since": 1790894438,
    "name": "Herakles-3653",
    "score": 60
+  },
+  "70490927": {
+   "first_seen": 1791110185,
+   "name": "freddy06",
+   "score": 25031
   },
   "7119883": {
    "first_seen": 1790857800,
@@ -3428,6 +3613,7 @@
   },
   "71554038": {
    "first_seen": 1790962164,
+   "missing_since": 1791110185,
    "name": "Le Duc Anh",
    "score": 171
   },
@@ -3480,6 +3666,11 @@
    "first_seen": 1790857800,
    "name": "ViridisLux",
    "score": 10678
+  },
+  "993363": {
+   "first_seen": 1791110185,
+   "name": "Captain Black",
+   "score": 59353264
   },
   "995590": {
    "first_seen": 1790857800,
