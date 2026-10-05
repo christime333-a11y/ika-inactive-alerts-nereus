@@ -60,6 +60,11 @@
    "name": "King Arthur513",
    "score": 1174527
   },
+  "112090": {
+   "first_seen": 1791244260,
+   "name": "Vesss",
+   "score": 243755
+  },
   "112217": {
    "first_seen": 1790857800,
    "name": "Asta834",
@@ -740,6 +745,11 @@
    "name": "hekate",
    "score": 6724033
   },
+  "118457": {
+   "first_seen": 1791244260,
+   "name": "VIKTORIJA",
+   "score": 4637683
+  },
   "118460": {
    "first_seen": 1790857800,
    "name": "Tarantula69",
@@ -955,6 +965,11 @@
    "name": "saka1 s2",
    "score": 7338
   },
+  "121063": {
+   "first_seen": 1791244260,
+   "name": "IKARO",
+   "score": 314014
+  },
   "121213": {
    "first_seen": 1791110185,
    "missing_since": 1791170883,
@@ -997,6 +1012,7 @@
   },
   "121372": {
    "first_seen": 1791170883,
+   "missing_since": 1791244260,
    "name": "MrBeast",
    "score": 8998019
   },
@@ -1065,101 +1081,121 @@
   },
   "121633": {
    "first_seen": 1791170883,
+   "missing_since": 1791244260,
    "name": "Ad Astara1",
    "score": 258414
   },
   "121634": {
    "first_seen": 1791170883,
+   "missing_since": 1791244260,
    "name": "Ad Astara3",
    "score": 263775
   },
   "121635": {
    "first_seen": 1791170883,
+   "missing_since": 1791244260,
    "name": "Ad Astara5",
    "score": 260652
   },
   "121636": {
    "first_seen": 1790857800,
+   "missing_since": 1791244260,
    "name": "Bob 1",
    "score": 6075
   },
   "121637": {
    "first_seen": 1790857800,
+   "missing_since": 1791244260,
    "name": "Bob 2",
    "score": 6080
   },
   "121638": {
    "first_seen": 1790857800,
+   "missing_since": 1791244260,
    "name": "Bob 4",
    "score": 6061
   },
   "121639": {
    "first_seen": 1790857800,
+   "missing_since": 1791244260,
    "name": "Papa 7",
    "score": 9283
   },
   "121641": {
    "first_seen": 1790857800,
+   "missing_since": 1791244260,
    "name": "Bob 3",
    "score": 6067
   },
   "121642": {
    "first_seen": 1790857800,
+   "missing_since": 1791244260,
    "name": "Papa 4",
    "score": 6867
   },
   "121643": {
    "first_seen": 1790857800,
+   "missing_since": 1791244260,
    "name": "Papa 5",
    "score": 5998
   },
   "121644": {
    "first_seen": 1790857800,
+   "missing_since": 1791244260,
    "name": "Papa 6",
    "score": 7935
   },
   "121651": {
    "first_seen": 1790857800,
+   "missing_since": 1791244260,
    "name": "Imp 2",
    "score": 6073
   },
   "121656": {
    "first_seen": 1791170883,
+   "missing_since": 1791244260,
    "name": "Ad Astara4",
    "score": 262084
   },
   "121657": {
    "first_seen": 1790857800,
+   "missing_since": 1791244260,
    "name": "Bob 5",
    "score": 6026
   },
   "121663": {
    "first_seen": 1790857800,
+   "missing_since": 1791244260,
    "name": "Imp 3",
    "score": 6080
   },
   "121670": {
    "first_seen": 1790857800,
+   "missing_since": 1791244260,
    "name": "Imp 1",
    "score": 6052
   },
   "121671": {
    "first_seen": 1790857800,
+   "missing_since": 1791244260,
    "name": "papa 1",
    "score": 6009
   },
   "121672": {
    "first_seen": 1790857800,
+   "missing_since": 1791244260,
    "name": "Papa 3",
    "score": 6134
   },
   "121682": {
    "first_seen": 1790857800,
+   "missing_since": 1791244260,
    "name": "Imp 4",
    "score": 6075
   },
   "121683": {
    "first_seen": 1790857800,
+   "missing_since": 1791244260,
    "name": "Papa 2",
    "score": 7563
   },
@@ -2280,6 +2316,7 @@
   },
   "39240167": {
    "first_seen": 1790857800,
+   "missing_since": 1791244260,
    "name": "opera015",
    "score": 116074
   },
