@@ -207,6 +207,7 @@
   },
   "113929": {
    "first_seen": 1791037999,
+   "missing_since": 1791168372,
    "name": "atomas13",
    "score": 52629
   },
@@ -309,6 +310,7 @@
   },
   "114612": {
    "first_seen": 1791037999,
+   "missing_since": 1791168372,
    "name": "Sou Eu",
    "score": 32924
   },
@@ -2719,6 +2721,7 @@
   },
   "55347574": {
    "first_seen": 1790857800,
+   "missing_since": 1791168372,
    "name": "Ambrosios",
    "score": 26368158
   },
@@ -3388,6 +3391,16 @@
    "name": "wompa6956536431",
    "score": 458090
   },
+  "70466761": {
+   "first_seen": 1791168372,
+   "name": "whereismymilk",
+   "score": 55472
+  },
+  "70466762": {
+   "first_seen": 1791168372,
+   "name": "JavedTh",
+   "score": 45762
+  },
   "70469134": {
    "first_seen": 1790857800,
    "name": "Daedalus-5522",
@@ -3425,18 +3438,26 @@
    "name": "Le Duc Anh",
    "score": 171
   },
+  "71554290": {
+   "first_seen": 1791168372,
+   "name": "Hegemon-4730",
+   "score": 331
+  },
   "72103091": {
    "first_seen": 1790962164,
+   "missing_since": 1791168372,
    "name": "Herakles-2398",
    "score": 113
   },
   "72103701": {
    "first_seen": 1790962164,
+   "missing_since": 1791168372,
    "name": "Adonis-7925",
    "score": 113
   },
   "72639123": {
    "first_seen": 1790962164,
+   "missing_since": 1791168372,
    "name": "Pollux-6450",
    "score": 113
   },
@@ -3447,6 +3468,7 @@
   },
   "72639306": {
    "first_seen": 1790962164,
+   "missing_since": 1791168372,
    "name": "Menelaus-6885",
    "score": 113
   },
@@ -3460,6 +3482,11 @@
    "name": "Herakles-4026",
    "score": 113
   },
+  "73165749": {
+   "first_seen": 1791168372,
+   "name": "Palamedes-1802",
+   "score": 113
+  },
   "7638911": {
    "first_seen": 1790857800,
    "name": "EdgarsL",
@@ -3469,6 +3496,11 @@
    "first_seen": 1790857800,
    "name": "71M d",
    "score": 776
+  },
+  "9191607": {
+   "first_seen": 1791168372,
+   "name": "Herakles-7524",
+   "score": 706
   },
   "9723453": {
    "first_seen": 1790857800,
