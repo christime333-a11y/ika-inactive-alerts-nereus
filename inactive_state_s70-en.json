@@ -61,6 +61,11 @@
    "name": "Asta834",
    "score": 65294
   },
+  "112238": {
+   "first_seen": 1791170883,
+   "name": "Menel",
+   "score": 2639
+  },
   "112245": {
    "first_seen": 1790857800,
    "name": "mexilhao10",
@@ -114,6 +119,7 @@
   },
   "11261051": {
    "first_seen": 1791110185,
+   "missing_since": 1791170883,
    "name": "Aky",
    "score": 5312077
   },
@@ -401,6 +407,7 @@
   },
   "115405": {
    "first_seen": 1790857800,
+   "missing_since": 1791170883,
    "name": "Parakanas",
    "score": 22571
   },
@@ -688,6 +695,11 @@
    "name": "DS-187M",
    "score": 1106
   },
+  "118358": {
+   "first_seen": 1791170883,
+   "name": "DutchArrow",
+   "score": 10471
+  },
   "118371": {
    "first_seen": 1790857800,
    "name": "moe10 80m",
@@ -820,6 +832,11 @@
    "name": "Saturo",
    "score": 147496
   },
+  "119408": {
+   "first_seen": 1791170883,
+   "name": "madi",
+   "score": 10288417
+  },
   "119416": {
    "first_seen": 1790857800,
    "name": "June5",
@@ -827,6 +844,7 @@
   },
   "119803": {
    "first_seen": 1791110185,
+   "missing_since": 1791170883,
    "name": "Karštuolis",
    "score": 3684320
   },
@@ -837,6 +855,7 @@
   },
   "119907": {
    "first_seen": 1790894438,
+   "missing_since": 1791170883,
    "name": "MAGA",
    "score": 52919
   },
@@ -848,8 +867,14 @@
   },
   "120206": {
    "first_seen": 1791037999,
+   "missing_since": 1791170883,
    "name": "MILEN",
    "score": 100959411
+  },
+  "120232": {
+   "first_seen": 1791170883,
+   "name": "Ad Astara2",
+   "score": 260035
   },
   "120443": {
    "first_seen": 1790857800,
@@ -906,21 +931,25 @@
   },
   "121213": {
    "first_seen": 1791110185,
+   "missing_since": 1791170883,
    "name": "noones",
    "score": 8973934
   },
   "121230": {
    "first_seen": 1791110185,
+   "missing_since": 1791170883,
    "name": "Muhamedas ally",
    "score": 23248211
   },
   "121236": {
    "first_seen": 1791110185,
+   "missing_since": 1791170883,
    "name": "TaBU",
    "score": 716885
   },
   "121238": {
    "first_seen": 1791110185,
+   "missing_since": 1791170883,
    "name": "SeEker",
    "score": 67833
   },
@@ -931,6 +960,7 @@
   },
   "121355": {
    "first_seen": 1790894438,
+   "missing_since": 1791170883,
    "name": "Champ_02",
    "score": 123368
   },
@@ -957,18 +987,26 @@
    "name": "Shanji",
    "score": 24182
   },
+  "121372": {
+   "first_seen": 1791170883,
+   "name": "MrBeast",
+   "score": 8998019
+  },
   "121408": {
    "first_seen": 1791037999,
+   "missing_since": 1791170883,
    "name": "Spartan_03",
    "score": 141432
   },
   "121411": {
    "first_seen": 1790894438,
+   "missing_since": 1791170883,
    "name": "ZDS 2",
    "score": 318463
   },
   "121437": {
    "first_seen": 1790965867,
+   "missing_since": 1791170883,
    "name": "Spartan 6",
    "score": 60261
   },
@@ -1011,6 +1049,21 @@
    "first_seen": 1790857800,
    "name": "Agamemnon-3187",
    "score": 121612
+  },
+  "121633": {
+   "first_seen": 1791170883,
+   "name": "Ad Astara1",
+   "score": 258414
+  },
+  "121634": {
+   "first_seen": 1791170883,
+   "name": "Ad Astara3",
+   "score": 263775
+  },
+  "121635": {
+   "first_seen": 1791170883,
+   "name": "Ad Astara5",
+   "score": 260652
   },
   "121636": {
    "first_seen": 1790857800,
@@ -1056,6 +1109,11 @@
    "first_seen": 1790857800,
    "name": "Imp 2",
    "score": 6073
+  },
+  "121656": {
+   "first_seen": 1791170883,
+   "name": "Ad Astara4",
+   "score": 262084
   },
   "121657": {
    "first_seen": 1790857800,
@@ -1131,6 +1189,11 @@
    "first_seen": 1790857800,
    "name": "travo1-----",
    "score": 7091
+  },
+  "121868": {
+   "first_seen": 1791170883,
+   "name": "Buzas51---main",
+   "score": 17416
   },
   "121869": {
    "first_seen": 1790857800,
@@ -1214,6 +1277,7 @@
   },
   "121946": {
    "first_seen": 1791110185,
+   "missing_since": 1791170883,
    "name": "Bruno Gröning",
    "score": 52425
   },
@@ -1245,21 +1309,25 @@
   },
   "122251": {
    "first_seen": 1790857800,
+   "missing_since": 1791170883,
    "name": "James241",
    "score": 10726191
   },
   "122323": {
    "first_seen": 1791110185,
+   "missing_since": 1791170883,
    "name": "Deagle91",
    "score": 2856
   },
   "122326": {
    "first_seen": 1791110185,
+   "missing_since": 1791170883,
    "name": "Peleus6652",
    "score": 4776
   },
   "122330": {
    "first_seen": 1791110185,
+   "missing_since": 1791170883,
    "name": "Peleus-161",
    "score": 1389
   },
@@ -1271,6 +1339,7 @@
   },
   "122486": {
    "first_seen": 1791110185,
+   "missing_since": 1791170883,
    "name": "Lion cika",
    "score": 4208517
   },
@@ -1304,8 +1373,14 @@
    "name": "big g",
    "score": 42796
   },
+  "122522": {
+   "first_seen": 1791170883,
+   "name": "plot",
+   "score": 12555
+  },
   "122555": {
    "first_seen": 1790894438,
+   "missing_since": 1791170883,
    "name": "Spartan 0",
    "score": 20301
   },
@@ -2111,6 +2186,11 @@
    "name": "Salama Nereus",
    "score": 20626
   },
+  "33410698": {
+   "first_seen": 1791170883,
+   "name": "Puzas52",
+   "score": 16443
+  },
   "33419624": {
    "first_seen": 1790857800,
    "name": "600mG",
@@ -2182,6 +2262,7 @@
   },
   "37126685": {
    "first_seen": 1790857800,
+   "missing_since": 1791170883,
    "name": "Mr Dao140040008",
    "score": 374897
   },
@@ -2246,6 +2327,11 @@
    "first_seen": 1790857800,
    "name": "IreneLai",
    "score": 27587
+  },
+  "41035590": {
+   "first_seen": 1791170883,
+   "name": "Lesinka",
+   "score": 358363
   },
   "41040598": {
    "first_seen": 1790857800,
@@ -2489,16 +2575,19 @@
   },
   "49005831": {
    "first_seen": 1790857800,
+   "missing_since": 1791170883,
    "name": "chick 7m",
    "score": 4702
   },
   "49010475": {
    "first_seen": 1790857800,
+   "missing_since": 1791170883,
    "name": "Марина Ишка",
    "score": 278098
   },
   "49016167": {
    "first_seen": 1790857800,
+   "missing_since": 1791170883,
    "name": "klochko 18M",
    "score": 9166
   },
@@ -3066,6 +3155,7 @@
   },
   "6090280": {
    "first_seen": 1790857800,
+   "missing_since": 1791170883,
    "name": "Visvaldis209",
    "score": 15539
   },
@@ -3302,6 +3392,7 @@
   },
   "66666404": {
    "first_seen": 1790857800,
+   "missing_since": 1791170883,
    "name": "Vanessa Mora225",
    "score": 5534309
   },
