@@ -72,6 +72,7 @@
   },
   "112284": {
    "first_seen": 1790892233,
+   "missing_since": 1791240749,
    "name": "Adonis-6692",
    "score": 26046
   },
@@ -82,6 +83,7 @@
   },
   "112384": {
    "first_seen": 1791110185,
+   "missing_since": 1791240749,
    "name": "SpartanFury",
    "score": 23357
   },
@@ -102,6 +104,7 @@
   },
   "112588": {
    "first_seen": 1791110185,
+   "missing_since": 1791240749,
    "name": "OlympianEdge",
    "score": 13107
   },
@@ -123,6 +126,7 @@
   },
   "112805": {
    "first_seen": 1790857800,
+   "missing_since": 1791240749,
    "name": "Gerietis",
    "score": 1699036
   },
@@ -2235,6 +2239,7 @@
   },
   "40485362": {
    "first_seen": 1790857800,
+   "missing_since": 1791240749,
    "name": "Atlas-6408",
    "score": 209
   },
@@ -2919,6 +2924,7 @@
   },
   "58015783": {
    "first_seen": 1791037999,
+   "missing_since": 1791240749,
    "name": "Herakles-969780",
    "score": 142
   },
@@ -3498,6 +3504,7 @@
   },
   "72639125": {
    "first_seen": 1791037999,
+   "missing_since": 1791240749,
    "name": "Tydeus-0540",
    "score": 113
   },
@@ -3509,11 +3516,13 @@
   },
   "72639700": {
    "first_seen": 1791037999,
+   "missing_since": 1791240749,
    "name": "Tydeus-9408",
    "score": 113
   },
   "72640317": {
    "first_seen": 1791037999,
+   "missing_since": 1791240749,
    "name": "Herakles-4026",
    "score": 113
   },
