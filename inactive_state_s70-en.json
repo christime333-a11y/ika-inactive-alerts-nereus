@@ -521,11 +521,13 @@
   },
   "117469": {
    "first_seen": 1791110185,
+   "missing_since": 1791169552,
    "name": "Hrhk",
    "score": 3438
   },
   "117475": {
    "first_seen": 1791110185,
+   "missing_since": 1791169552,
    "name": "Luka",
    "score": 4155
   },
@@ -566,6 +568,11 @@
    "first_seen": 1790893411,
    "name": "eleon1",
    "score": 12678
+  },
+  "117838": {
+   "first_seen": 1791169552,
+   "name": "Joe Black",
+   "score": 9706643
   },
   "117841": {
    "first_seen": 1791110185,
@@ -760,6 +767,7 @@
   },
   "119052": {
    "first_seen": 1791110185,
+   "missing_since": 1791169552,
    "name": "Carol",
    "score": 285411
   },
@@ -2474,6 +2482,11 @@
    "name": "Kapitan7522",
    "score": 570395
   },
+  "48999524": {
+   "first_seen": 1791169552,
+   "name": "Herakles 565211",
+   "score": 633
+  },
   "49005831": {
    "first_seen": 1790857800,
    "name": "chick 7m",
@@ -2930,6 +2943,7 @@
   },
   "59098442": {
    "first_seen": 1790857800,
+   "missing_since": 1791169552,
    "name": "Peleus-92470059",
    "score": 98
   },
@@ -2963,6 +2977,11 @@
    "first_seen": 1790857800,
    "name": "Mr Croc",
    "score": 5403
+  },
+  "59619685": {
+   "first_seen": 1791169552,
+   "name": "Dr Who",
+   "score": 34731
   },
   "59620889": {
    "first_seen": 1790857800,
