@@ -103,6 +103,7 @@
   },
   "112285": {
    "first_seen": 1790857800,
+   "missing_since": 1791311313,
    "name": "iksz68",
    "score": 1082726
   },
@@ -221,6 +222,7 @@
   },
   "113499": {
    "first_seen": 1791241552,
+   "missing_since": 1791311313,
    "name": "Orpheus-4287",
    "score": 47762
   },
@@ -318,6 +320,7 @@
   },
   "114167": {
    "first_seen": 1791037999,
+   "missing_since": 1791311313,
    "name": "B 86",
    "score": 15021990
   },
@@ -376,6 +379,7 @@
   },
   "114727": {
    "first_seen": 1791037999,
+   "missing_since": 1791311313,
    "name": "JBY",
    "score": 2734559
   },
@@ -3391,6 +3395,11 @@
    "name": "Sir Tyrone",
    "score": 217798
   },
+  "66646676": {
+   "first_seen": 1791311313,
+   "name": "Dalinar Kholin",
+   "score": 121598113
+  },
   "66665238": {
    "first_seen": 1790857800,
    "name": "Herakles-896510",
@@ -3414,6 +3423,7 @@
   },
   "67188489": {
    "first_seen": 1790857800,
+   "missing_since": 1791311313,
    "name": "Bembists112",
    "score": 205
   },
@@ -3542,6 +3552,11 @@
    "name": "freddy06",
    "score": 25031
   },
+  "71011034": {
+   "first_seen": 1791311313,
+   "name": "ASSD Roko",
+   "score": 10701
+  },
   "71013493": {
    "first_seen": 1791241552,
    "name": "Jason-7938",
@@ -3627,6 +3642,7 @@
   },
   "73165749": {
    "first_seen": 1791168372,
+   "missing_since": 1791311313,
    "name": "Palamedes-1802",
    "score": 113
   },
