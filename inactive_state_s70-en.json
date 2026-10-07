@@ -1,21 +1,9 @@
 {
  "players": {
-  "1030669": {
-   "first_seen": 1790895306,
-   "missing_since": 1791110185,
-   "name": "Ja irn",
-   "score": 7601
-  },
   "10764373": {
    "first_seen": 1791245138,
    "name": "Whitch King",
    "score": 2689
-  },
-  "111461": {
-   "first_seen": 1791037999,
-   "missing_since": 1791110185,
-   "name": "Taffel",
-   "score": 7297
   },
   "111591": {
    "first_seen": 1791037999,
@@ -32,28 +20,10 @@
    "name": "BAKTERIJA LT",
    "score": 12570888
   },
-  "111768": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "Piratа",
-   "score": 447104
-  },
-  "111943": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "Stanimircv",
-   "score": 706
-  },
   "112031": {
    "first_seen": 1791037999,
    "name": "mjosa 5",
    "score": 4163
-  },
-  "112033": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "Chelsea140",
-   "score": 160276
   },
   "112043": {
    "first_seen": 1791037999,
@@ -186,12 +156,6 @@
    "name": "Luis_Memo",
    "score": 158902
   },
-  "113244": {
-   "first_seen": 1791037999,
-   "missing_since": 1791110185,
-   "name": "Lukshys",
-   "score": 6997
-  },
   "113245": {
    "first_seen": 1790857800,
    "name": "Pollux-5297",
@@ -201,18 +165,6 @@
    "first_seen": 1790857800,
    "name": "Menelaus-5795",
    "score": 316499
-  },
-  "113334": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "Phantom297",
-   "score": 452248
-  },
-  "113409": {
-   "first_seen": 1791037999,
-   "missing_since": 1791110185,
-   "name": "Krank17",
-   "score": 1311750
   },
   "113433": {
    "first_seen": 1790857800,
@@ -359,12 +311,6 @@
    "first_seen": 1791037999,
    "name": "manyspots",
    "score": 119659
-  },
-  "114590": {
-   "first_seen": 1791037999,
-   "missing_since": 1791110185,
-   "name": "cool7658",
-   "score": 12222
   },
   "114597": {
    "first_seen": 1790857800,
@@ -581,23 +527,11 @@
    "name": "Agressor_СT",
    "score": 43672
   },
-  "117285": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "DS-437M",
-   "score": 312
-  },
   "117289": {
    "first_seen": 1790857800,
    "missing_since": 1791313933,
    "name": "Drake",
    "score": 1367920
-  },
-  "117297": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "DS-405M",
-   "score": 312
   },
   "117337": {
    "first_seen": 1791313933,
@@ -608,12 +542,6 @@
    "first_seen": 1791313933,
    "name": "Kurama84",
    "score": 653
-  },
-  "117372": {
-   "first_seen": 1791037999,
-   "missing_since": 1791110185,
-   "name": "Tydeusz",
-   "score": 169400
   },
   "117469": {
    "first_seen": 1791110185,
@@ -626,18 +554,6 @@
    "missing_since": 1791169552,
    "name": "Luka",
    "score": 4155
-  },
-  "117532": {
-   "first_seen": 1791037999,
-   "missing_since": 1791110185,
-   "name": "Kejser",
-   "score": 49904320
-  },
-  "117549": {
-   "first_seen": 1791037999,
-   "missing_since": 1791110185,
-   "name": "Heraka",
-   "score": 269201
   },
   "117719": {
    "first_seen": 1790893411,
@@ -732,47 +648,11 @@
    "name": "Kemp",
    "score": 11510273
   },
-  "118231": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "Ranger",
-   "score": 1511042
-  },
-  "118232": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "DS-568M",
-   "score": 306
-  },
   "118238": {
    "first_seen": 1790857800,
    "missing_since": 1791313933,
    "name": "Lundin",
    "score": 3788963
-  },
-  "118243": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "DS-170M",
-   "score": 127
-  },
-  "118244": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "Theseus-9632",
-   "score": 8851
-  },
-  "118248": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "DS-567M",
-   "score": 199
-  },
-  "118265": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "DS-187M",
-   "score": 1106
   },
   "118270": {
    "first_seen": 1791313933,
@@ -912,12 +792,6 @@
    "name": "Kamholder",
    "score": 1229
   },
-  "119182": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "nikolas",
-   "score": 6834284
-  },
   "119189": {
    "first_seen": 1791037999,
    "name": "aaaaa 4",
@@ -927,24 +801,6 @@
    "first_seen": 1791037999,
    "name": "gfhd 4",
    "score": 111864
-  },
-  "119363": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "DS-355M",
-   "score": 1746
-  },
-  "119366": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "Agamemnon-0079",
-   "score": 3486
-  },
-  "119407": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "Saturo",
-   "score": 147496
   },
   "119408": {
    "first_seen": 1791170883,
@@ -1034,12 +890,6 @@
    "first_seen": 1791315554,
    "name": "Elise",
    "score": 545255
-  },
-  "120588": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "araxtos",
-   "score": 1427224
   },
   "120591": {
    "first_seen": 1790857800,
@@ -1554,12 +1404,6 @@
    "name": "Lion cika",
    "score": 4208517
   },
-  "122494": {
-   "first_seen": 1791037999,
-   "missing_since": 1791110185,
-   "name": "Shama",
-   "score": 81283
-  },
   "122522": {
    "first_seen": 1791170883,
    "name": "plot",
@@ -1868,12 +1712,6 @@
    "missing_since": 1791315554,
    "name": "nudis8",
    "score": 20149
-  },
-  "122984": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "H-3",
-   "score": 193
   },
   "123025": {
    "first_seen": 1790857800,
@@ -2249,12 +2087,6 @@
    "name": "Adonis-7525268",
    "score": 853432
   },
-  "184615": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "Rodrigao",
-   "score": 28112
-  },
   "1999161": {
    "first_seen": 1790857800,
    "name": "Malva4209",
@@ -2517,12 +2349,6 @@
    "name": "bigdataspeciali",
    "score": 253
   },
-  "34448742": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "4206910",
-   "score": 1937264
-  },
   "34988054": {
    "first_seen": 1790857800,
    "name": "Shadow of Night",
@@ -2771,12 +2597,6 @@
    "name": "Dra9040809",
    "score": 3114983
   },
-  "45821471": {
-   "first_seen": 1790962164,
-   "missing_since": 1791110185,
-   "name": "Atlas-5268",
-   "score": 2729
-  },
   "45821835": {
    "first_seen": 1790857800,
    "name": "Pawn",
@@ -2827,12 +2647,6 @@
    "first_seen": 1791037999,
    "name": "danialhy",
    "score": 2275
-  },
-  "48456860": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "ErősPista",
-   "score": 1617
   },
   "48459132": {
    "first_seen": 1790895306,
@@ -3641,12 +3455,6 @@
    "name": "UbertCom481",
    "score": 141546645
   },
-  "65041035": {
-   "first_seen": 1790857800,
-   "missing_since": 1791110185,
-   "name": "Zelda60",
-   "score": 392
-  },
   "65041906": {
    "first_seen": 1790857800,
    "name": "511MK",
@@ -3927,12 +3735,6 @@
    "first_seen": 1790857800,
    "name": "choso",
    "score": 30370
-  },
-  "71554038": {
-   "first_seen": 1790962164,
-   "missing_since": 1791110185,
-   "name": "Le Duc Anh",
-   "score": 171
   },
   "71554290": {
    "first_seen": 1791168372,
