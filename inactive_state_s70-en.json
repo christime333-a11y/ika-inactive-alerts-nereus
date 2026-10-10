@@ -1,5 +1,10 @@
 {
  "players": {
+  "1030670": {
+   "first_seen": 1791605421,
+   "name": "ja2-Fighte",
+   "score": 2688
+  },
   "10764373": {
    "first_seen": 1791245138,
    "name": "Whitch King",
@@ -739,6 +744,7 @@
   },
   "118438": {
    "first_seen": 1791037999,
+   "missing_since": 1791605421,
    "name": "hekate",
    "score": 6724033
   },
@@ -772,6 +778,11 @@
    "name": "Tomys",
    "score": 5181655
   },
+  "118608": {
+   "first_seen": 1791605421,
+   "name": "Jazzyman",
+   "score": 73186603
+  },
   "118656": {
    "first_seen": 1790857800,
    "name": "Jielwan",
@@ -784,6 +795,7 @@
   },
   "118711": {
    "first_seen": 1790857800,
+   "missing_since": 1791605421,
    "name": "Kickass2",
    "score": 1479223
   },
@@ -3347,6 +3359,7 @@
   },
   "71563296": {
    "first_seen": 1791242578,
+   "missing_since": 1791605421,
    "name": "Fill 21191",
    "score": 130
   },
