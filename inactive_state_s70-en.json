@@ -13,6 +13,7 @@
   },
   "111497": {
    "first_seen": 1791382427,
+   "missing_since": 1791603038,
    "name": "TarpPer",
    "score": 37727
   },
@@ -152,6 +153,7 @@
   },
   "112741": {
    "first_seen": 1791381320,
+   "missing_since": 1791603038,
    "name": "Ritute",
    "score": 3066
   },
@@ -216,6 +218,7 @@
   },
   "113111": {
    "first_seen": 1790857800,
+   "missing_since": 1791603038,
    "name": "Atlas-5902",
    "score": 238
   },
@@ -386,6 +389,7 @@
   },
   "114663": {
    "first_seen": 1791381320,
+   "missing_since": 1791603038,
    "name": "Toke",
    "score": 313471
   },
@@ -461,6 +465,11 @@
    "name": "Liss",
    "score": 45633
   },
+  "115066": {
+   "first_seen": 1791603038,
+   "name": "Liono",
+   "score": 8996118
+  },
   "115155": {
    "first_seen": 1790857800,
    "name": "dSensei051",
@@ -488,26 +497,31 @@
   },
   "115842": {
    "first_seen": 1791381320,
+   "missing_since": 1791603038,
    "name": "Zigmutis",
    "score": 3078
   },
   "115858": {
    "first_seen": 1791381320,
+   "missing_since": 1791603038,
    "name": "Rutele",
    "score": 3023
   },
   "115879": {
    "first_seen": 1791381320,
+   "missing_since": 1791603038,
    "name": "Tadukas",
    "score": 2852
   },
   "115882": {
    "first_seen": 1791384054,
+   "missing_since": 1791603038,
    "name": "Daliukas",
    "score": 3007
   },
   "115900": {
    "first_seen": 1791381320,
+   "missing_since": 1791603038,
    "name": "makatron",
    "score": 57602
   },
@@ -519,6 +533,7 @@
   },
   "115911": {
    "first_seen": 1791384054,
+   "missing_since": 1791603038,
    "name": "Zilvis",
    "score": 3000
   },
@@ -555,6 +570,7 @@
   },
   "116342": {
    "first_seen": 1791037999,
+   "missing_since": 1791603038,
    "name": "Looke1",
    "score": 1318632
   },
@@ -1808,6 +1824,7 @@
   },
   "27026091": {
    "first_seen": 1791384054,
+   "missing_since": 1791603038,
    "name": "Pelesuus",
    "score": 4707
   },
@@ -1901,6 +1918,11 @@
    "first_seen": 1791600852,
    "name": "lazvegas470",
    "score": 3106
+  },
+  "33392809": {
+   "first_seen": 1791603038,
+   "name": "2222",
+   "score": 17999
   },
   "33402608": {
    "first_seen": 1790857800,
@@ -3161,6 +3183,11 @@
    "first_seen": 1791168372,
    "name": "JavedTh",
    "score": 45762
+  },
+  "70467319": {
+   "first_seen": 1791603038,
+   "name": "Slingshot",
+   "score": 1690
   },
   "70469134": {
    "first_seen": 1790857800,
