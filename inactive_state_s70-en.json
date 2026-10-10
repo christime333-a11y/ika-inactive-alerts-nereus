@@ -326,6 +326,11 @@
    "name": "CloseF",
    "score": 1231
   },
+  "113968": {
+   "first_seen": 1791609074,
+   "name": "CloseJ",
+   "score": 1348
+  },
   "113995": {
    "first_seen": 1790895306,
    "name": "Wolf Rider",
@@ -374,6 +379,7 @@
   },
   "114286": {
    "first_seen": 1791384054,
+   "missing_since": 1791609074,
    "name": "topa",
    "score": 6320950
   },
@@ -392,6 +398,11 @@
    "missing_since": 1791606646,
    "name": "Topa440",
    "score": 12926072
+  },
+  "114591": {
+   "first_seen": 1791609074,
+   "name": "HungryChicken",
+   "score": 98825
   },
   "114597": {
    "first_seen": 1790857800,
@@ -750,6 +761,11 @@
    "name": "Miner G",
    "score": 477318
   },
+  "117944": {
+   "first_seen": 1791609074,
+   "name": "close5",
+   "score": 402
+  },
   "118038": {
    "first_seen": 1790857800,
    "name": "Ushakov ishka",
@@ -821,6 +837,7 @@
   },
   "118656": {
    "first_seen": 1790857800,
+   "missing_since": 1791609074,
    "name": "Jielwan",
    "score": 11016618
   },
@@ -1074,6 +1091,21 @@
    "name": "MOORE",
    "score": 988
   },
+  "121481": {
+   "first_seen": 1791609074,
+   "name": "Tydyjjyiuhkytih",
+   "score": 2688
+  },
+  "121507": {
+   "first_seen": 1791609074,
+   "name": "close2",
+   "score": 630
+  },
+  "121508": {
+   "first_seen": 1791609074,
+   "name": "close3",
+   "score": 572
+  },
   "121561": {
    "first_seen": 1790857800,
    "name": "Daedalus-8942",
@@ -1168,6 +1200,7 @@
   },
   "121976": {
    "first_seen": 1791245138,
+   "missing_since": 1791609074,
    "name": "DinoMann",
    "score": 7369527
   },
@@ -1198,8 +1231,19 @@
   },
   "122378": {
    "first_seen": 1791384054,
+   "missing_since": 1791609074,
    "name": "kvmarchellooz",
    "score": 2129539
+  },
+  "122379": {
+   "first_seen": 1791609074,
+   "name": "Lauvene",
+   "score": 63660
+  },
+  "122516": {
+   "first_seen": 1791609074,
+   "name": "Corazon",
+   "score": 624843
   },
   "122522": {
    "first_seen": 1791170883,
@@ -1352,6 +1396,11 @@
    "name": "bckn 1",
    "score": 6607
   },
+  "122741": {
+   "first_seen": 1791609074,
+   "name": "igg 1",
+   "score": 7701
+  },
   "122742": {
    "first_seen": 1791037999,
    "name": "dfdx 1",
@@ -1452,10 +1501,30 @@
    "name": "FANH 4",
    "score": 18200
   },
+  "122825": {
+   "first_seen": 1791609074,
+   "name": "BezerraMalandro",
+   "score": 2828670
+  },
+  "122829": {
+   "first_seen": 1791609074,
+   "name": "CatchupLouco",
+   "score": 12801108
+  },
   "122830": {
    "first_seen": 1790857800,
    "name": "xXMaNiaCsXx",
    "score": 11499360
+  },
+  "122834": {
+   "first_seen": 1791609074,
+   "name": "Boladex",
+   "score": 3134362
+  },
+  "122982": {
+   "first_seen": 1791609074,
+   "name": "Mayo",
+   "score": 1067
   },
   "123025": {
    "first_seen": 1790857800,
@@ -1614,6 +1683,7 @@
   },
   "125067": {
    "first_seen": 1790857800,
+   "missing_since": 1791609074,
    "name": "Doisdoido219",
    "score": 1599
   },
@@ -1770,6 +1840,7 @@
   },
   "183892": {
    "first_seen": 1790857800,
+   "missing_since": 1791609074,
    "name": "Adonis-7525268",
    "score": 853432
   },
@@ -1815,6 +1886,7 @@
   },
   "2036509": {
    "first_seen": 1791315554,
+   "missing_since": 1791609074,
    "name": "Masa7",
    "score": 5908
   },
@@ -1890,6 +1962,7 @@
   },
   "2525745": {
    "first_seen": 1791315554,
+   "missing_since": 1791609074,
    "name": "newbie",
    "score": 1575
   },
@@ -1920,6 +1993,7 @@
   },
   "25529512": {
    "first_seen": 1791315554,
+   "missing_since": 1791609074,
    "name": "as444",
    "score": 6031
   },
@@ -1957,6 +2031,7 @@
   },
   "27027745": {
    "first_seen": 1791384054,
+   "missing_since": 1791609074,
    "name": "Guardian0506",
    "score": 1349
   },
@@ -1974,11 +2049,13 @@
   },
   "27072544": {
    "first_seen": 1791384054,
+   "missing_since": 1791609074,
    "name": "gravvv",
    "score": 2498
   },
   "28648853": {
    "first_seen": 1791315554,
+   "missing_since": 1791609074,
    "name": "Atlas-8496968",
    "score": 127
   },
@@ -2325,6 +2402,7 @@
   },
   "47388425": {
    "first_seen": 1790857800,
+   "missing_since": 1791609074,
    "name": "Mali Losinj",
    "score": 35026
   },
@@ -2337,6 +2415,11 @@
    "first_seen": 1790895306,
    "name": "Kapitan7522",
    "score": 570395
+  },
+  "48465443": {
+   "first_seen": 1791609074,
+   "name": "Orpheus-1093303",
+   "score": 596
   },
   "48999524": {
    "first_seen": 1791169552,
@@ -3301,6 +3384,11 @@
    "first_seen": 1790965867,
    "name": "35s",
    "score": 18470
+  },
+  "69398301": {
+   "first_seen": 1791609074,
+   "name": "bvcvb 5",
+   "score": 3124
   },
   "69913064": {
    "first_seen": 1791600852,
