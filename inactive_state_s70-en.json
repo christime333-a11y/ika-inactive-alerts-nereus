@@ -62,6 +62,7 @@
   },
   "111811": {
    "first_seen": 1791601814,
+   "missing_since": 1791755645,
    "name": "potatus22",
    "score": 1055472
   },
@@ -70,10 +71,20 @@
    "name": "Xem chi so",
    "score": 7743
   },
+  "111943": {
+   "first_seen": 1791755645,
+   "name": "Stanimircv",
+   "score": 706
+  },
   "112031": {
    "first_seen": 1791037999,
    "name": "mjosa 5",
    "score": 4163
+  },
+  "112033": {
+   "first_seen": 1791755645,
+   "name": "Chelsea140",
+   "score": 160579
   },
   "112043": {
    "first_seen": 1791037999,
@@ -92,6 +103,7 @@
   },
   "112217": {
    "first_seen": 1790857800,
+   "missing_since": 1791755645,
    "name": "Asta834",
    "score": 65294
   },
@@ -112,6 +124,7 @@
   },
   "112327": {
    "first_seen": 1791611636,
+   "missing_since": 1791755645,
    "name": "patinka",
    "score": 21841687
   },
@@ -122,6 +135,7 @@
   },
   "112497": {
    "first_seen": 1790857800,
+   "missing_since": 1791755645,
    "name": "ASTA",
    "score": 130954
   },
@@ -248,6 +262,7 @@
   },
   "112964": {
    "first_seen": 1791611636,
+   "missing_since": 1791755645,
    "name": "zarijana",
    "score": 57334
   },
@@ -257,8 +272,14 @@
    "name": "Atlas-5902",
    "score": 238
   },
+  "113144": {
+   "first_seen": 1791755645,
+   "name": "Morri",
+   "score": 6969
+  },
   "113193": {
    "first_seen": 1791608094,
+   "missing_since": 1791755645,
    "name": "alav",
    "score": 42606513
   },
@@ -269,11 +290,13 @@
   },
   "113215": {
    "first_seen": 1791611636,
+   "missing_since": 1791755645,
    "name": "vidmas",
    "score": 24391176
   },
   "113243": {
    "first_seen": 1791611636,
+   "missing_since": 1791755645,
    "name": "Meška9",
    "score": 7944280
   },
@@ -284,6 +307,7 @@
   },
   "113252": {
    "first_seen": 1791606646,
+   "missing_since": 1791755645,
    "name": "Boom9",
    "score": 4308741
   },
@@ -295,11 +319,13 @@
   },
   "113298": {
    "first_seen": 1791611636,
+   "missing_since": 1791755645,
    "name": "eBalcius9",
    "score": 6258071
   },
   "113305": {
    "first_seen": 1791611636,
+   "missing_since": 1791755645,
    "name": "abra kadabra",
    "score": 15014837
   },
@@ -2001,6 +2027,7 @@
   },
   "25478328": {
    "first_seen": 1790857800,
+   "missing_since": 1791755645,
    "name": "MrScientist",
    "score": 14960
   },
@@ -2209,6 +2236,11 @@
    "missing_since": 1791610206,
    "name": "dopamin64425",
    "score": 11732649
+  },
+  "37081222": {
+   "first_seen": 1791755645,
+   "name": "Tydeus-007775",
+   "score": 156
   },
   "37085519": {
    "first_seen": 1790892233,
@@ -3357,6 +3389,11 @@
    "name": "DrvoLion8258965",
    "score": 301
   },
+  "68276321": {
+   "first_seen": 1791755645,
+   "name": "Argos 1",
+   "score": 182
+  },
   "68294575": {
    "first_seen": 1790857800,
    "name": "Archi",
@@ -3694,6 +3731,7 @@
   },
   "73711530": {
    "first_seen": 1791610206,
+   "missing_since": 1791755645,
    "name": "Elcamino",
    "score": 1624721
   },
@@ -3713,6 +3751,11 @@
    "name": "Top04",
    "score": 64
   },
+  "75337984": {
+   "first_seen": 1791755645,
+   "name": "arf57",
+   "score": 228
+  },
   "75367555": {
    "first_seen": 1791606646,
    "name": "maha",
@@ -3723,15 +3766,32 @@
    "name": "EdgarsL",
    "score": 16564
   },
+  "76947907": {
+   "first_seen": 1791755645,
+   "name": "Machu Picchu",
+   "score": 258
+  },
   "76948286": {
    "first_seen": 1791600852,
+   "missing_since": 1791755645,
    "name": "has",
    "score": 54
   },
+  "77492469": {
+   "first_seen": 1791755645,
+   "name": "Pollux-4560",
+   "score": 61
+  },
   "77492770": {
    "first_seen": 1791611636,
+   "missing_since": 1791755645,
    "name": "Atlas-3110",
    "score": 112
+  },
+  "77495670": {
+   "first_seen": 1791755645,
+   "name": "Odysseus-9198",
+   "score": 115
   },
   "8672925": {
    "first_seen": 1790857800,
