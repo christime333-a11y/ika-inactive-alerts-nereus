@@ -854,7 +854,6 @@
   },
   "116857": {
    "first_seen": 1791611636,
-   "missing_since": 1791759239,
    "name": "amalykas",
    "score": 48287976
   },
@@ -865,6 +864,7 @@
   },
   "117125": {
    "first_seen": 1790857800,
+   "missing_since": 1791761196,
    "name": "mogilka_СTs",
    "score": 2148606
   },
@@ -1101,11 +1101,13 @@
   },
   "118910": {
    "first_seen": 1791608094,
+   "missing_since": 1791761196,
    "name": "TheHornet",
    "score": 4913247
   },
   "118911": {
    "first_seen": 1791608094,
+   "missing_since": 1791761196,
    "name": "Zevs",
    "score": 4597147
   },
@@ -3121,6 +3123,11 @@
    "name": "adam16445920",
    "score": 4892837
   },
+  "59111609": {
+   "first_seen": 1791761196,
+   "name": "C1B6K3650",
+   "score": 137933
+  },
   "59112024": {
    "first_seen": 1790857800,
    "name": "Palamedes-92929",
@@ -3155,6 +3162,7 @@
   },
   "59641393": {
    "first_seen": 1791313933,
+   "missing_since": 1791761196,
    "name": "Menelaus-7288",
    "score": 62
   },
@@ -4008,6 +4016,7 @@
   },
   "9723453": {
    "first_seen": 1790857800,
+   "missing_since": 1791761196,
    "name": "ViridisLux",
    "score": 10678
   },
