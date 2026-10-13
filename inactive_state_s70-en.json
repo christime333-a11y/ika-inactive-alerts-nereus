@@ -35,12 +35,6 @@
    "name": "Bold",
    "score": 3722
   },
-  "111789": {
-   "first_seen": 1791382427,
-   "missing_since": 1791606646,
-   "name": "Tobo",
-   "score": 4872330
-  },
   "111790": {
    "first_seen": 1791600852,
    "name": "Peleus-0187",
@@ -452,12 +446,6 @@
    "name": "manyspots",
    "score": 119659
   },
-  "114553": {
-   "first_seen": 1791382427,
-   "missing_since": 1791606646,
-   "name": "Topa440",
-   "score": 12926072
-  },
   "114591": {
    "first_seen": 1791609074,
    "name": "HungryChicken",
@@ -478,12 +466,6 @@
    "missing_since": 1791763887,
    "name": "Hegemon-5218",
    "score": 640854
-  },
-  "114752": {
-   "first_seen": 1791382427,
-   "missing_since": 1791606646,
-   "name": "toke1",
-   "score": 10767418
   },
   "114758": {
    "first_seen": 1791611636,
@@ -638,12 +620,6 @@
    "first_seen": 1791762778,
    "name": "CloseI",
    "score": 1152
-  },
-  "116577": {
-   "first_seen": 1791382427,
-   "missing_since": 1791606646,
-   "name": "bear69",
-   "score": 14873923
   },
   "116578": {
    "first_seen": 1791759239,
@@ -847,18 +823,6 @@
    "name": "Sokrates386",
    "score": 654718
   },
-  "118477": {
-   "first_seen": 1791382427,
-   "missing_since": 1791606646,
-   "name": "Herakles123",
-   "score": 69700862
-  },
-  "118478": {
-   "first_seen": 1791382427,
-   "missing_since": 1791606646,
-   "name": "Dennis123849",
-   "score": 72526128
-  },
   "118553": {
    "first_seen": 1791313933,
    "name": "Tomys",
@@ -890,12 +854,6 @@
    "first_seen": 1791312940,
    "name": "Pancho",
    "score": 38188
-  },
-  "118882": {
-   "first_seen": 1791110185,
-   "missing_since": 1791606646,
-   "name": "NereusSWGS1aASP",
-   "score": 51038
   },
   "118886": {
    "first_seen": 1790857800,
@@ -1834,12 +1792,6 @@
    "name": "ROO5F",
    "score": 12813
   },
-  "154288": {
-   "first_seen": 1790857800,
-   "missing_since": 1791608094,
-   "name": "viking",
-   "score": 43419
-  },
   "154290": {
    "first_seen": 1791172670,
    "missing_since": 1791763887,
@@ -2166,18 +2118,6 @@
    "name": "Guardian0506",
    "score": 1349
   },
-  "27066973": {
-   "first_seen": 1791384054,
-   "missing_since": 1791608094,
-   "name": "Yana48",
-   "score": 2655
-  },
-  "27067074": {
-   "first_seen": 1791384054,
-   "missing_since": 1791608094,
-   "name": "Alberte",
-   "score": 2932
-  },
   "27072544": {
    "first_seen": 1791384054,
    "missing_since": 1791609074,
@@ -2194,12 +2134,6 @@
    "first_seen": 1790857800,
    "name": "Δράκων 05338324",
    "score": 2413507
-  },
-  "30726629": {
-   "first_seen": 1790857800,
-   "missing_since": 1791608094,
-   "name": "Doppelganger",
-   "score": 353840
   },
   "31254850": {
    "first_seen": 1790857800,
@@ -2227,18 +2161,6 @@
    "first_seen": 1790857800,
    "name": "Kapsi-72M",
    "score": 376
-  },
-  "32349964": {
-   "first_seen": 1790857800,
-   "missing_since": 1791608094,
-   "name": "_tsan",
-   "score": 197
-  },
-  "32349965": {
-   "first_seen": 1790857800,
-   "missing_since": 1791608094,
-   "name": "dany553",
-   "score": 128
   },
   "32352197": {
    "first_seen": 1791610206,
@@ -2277,12 +2199,6 @@
    "first_seen": 1790857800,
    "name": "Mystic 1B85M955",
    "score": 119
-  },
-  "33408765": {
-   "first_seen": 1790857800,
-   "missing_since": 1791606646,
-   "name": "Salama Nereus",
-   "score": 20626
   },
   "33419624": {
    "first_seen": 1790857800,
@@ -2595,12 +2511,6 @@
    "name": "Adonis-2667",
    "score": 57329
   },
-  "51127813": {
-   "first_seen": 1790857800,
-   "missing_since": 1791608094,
-   "name": "Antiekman",
-   "score": 25125318
-  },
   "51170973": {
    "first_seen": 1790895306,
    "name": "Amiral1502",
@@ -2627,12 +2537,6 @@
    "missing_since": 1791757720,
    "name": "Itanika87629026",
    "score": 256312
-  },
-  "52190382": {
-   "first_seen": 1790857800,
-   "missing_since": 1791606646,
-   "name": "Odysseus-646490",
-   "score": 364229
   },
   "52702218": {
    "first_seen": 1791110185,
@@ -2682,18 +2586,6 @@
    "first_seen": 1790857800,
    "name": "PhuYen195123195",
    "score": 361588
-  },
-  "53240629": {
-   "first_seen": 1790857800,
-   "missing_since": 1791608094,
-   "name": "Jeta",
-   "score": 229148
-  },
-  "53242841": {
-   "first_seen": 1790857800,
-   "missing_since": 1791608094,
-   "name": "ZepRo9",
-   "score": 19114
   },
   "53753705": {
    "first_seen": 1790857800,
@@ -3230,12 +3122,6 @@
    "first_seen": 1791037999,
    "name": "ASTRA0025547651",
    "score": 4877038
-  },
-  "63950571": {
-   "first_seen": 1791037999,
-   "missing_since": 1791606646,
-   "name": "A D M I R A 312",
-   "score": 381692
   },
   "63950963": {
    "first_seen": 1791313933,
