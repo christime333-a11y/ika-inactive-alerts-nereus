@@ -2,8 +2,14 @@
  "players": {
   "10227271": {
    "first_seen": 1791610206,
+   "missing_since": 1791874412,
    "name": "moh3en parsa",
    "score": 30584
+  },
+  "1030666": {
+   "first_seen": 1791874412,
+   "name": "Owl1721",
+   "score": 2793
   },
   "1030670": {
    "first_seen": 1791605421,
@@ -378,6 +384,11 @@
    "name": "CloseF",
    "score": 1231
   },
+  "113966": {
+   "first_seen": 1791874412,
+   "name": "CloseG",
+   "score": 1296
+  },
   "113967": {
    "first_seen": 1791762778,
    "name": "fggre",
@@ -592,6 +603,11 @@
    "name": "1 pipars ciemaa",
    "score": 55773645
   },
+  "115580": {
+   "first_seen": 1791874412,
+   "name": "LeapofFaith",
+   "score": 2778995
+  },
   "115610": {
    "first_seen": 1791037999,
    "name": "Kiborgs",
@@ -635,6 +651,11 @@
    "first_seen": 1791172670,
    "name": "alfigo 5",
    "score": 39257
+  },
+  "116289": {
+   "first_seen": 1791874412,
+   "name": "Imp 5",
+   "score": 6080
   },
   "116329": {
    "first_seen": 1790857800,
@@ -716,6 +737,16 @@
    "name": "Kurama84",
    "score": 653
   },
+  "117479": {
+   "first_seen": 1791874412,
+   "name": "CloseE",
+   "score": 1209
+  },
+  "117569": {
+   "first_seen": 1791874412,
+   "name": "Kalina",
+   "score": 7941930
+  },
   "117599": {
    "first_seen": 1791762778,
    "name": "ME_",
@@ -756,6 +787,11 @@
    "first_seen": 1790893411,
    "name": "eleon1",
    "score": 12678
+  },
+  "117795": {
+   "first_seen": 1791874412,
+   "name": "jackspicey",
+   "score": 2646181
   },
   "117838": {
    "first_seen": 1791169552,
@@ -823,6 +859,7 @@
   },
   "117944": {
    "first_seen": 1791609074,
+   "missing_since": 1791874412,
    "name": "close5",
    "score": 402
   },
@@ -851,6 +888,11 @@
    "name": "Maaareeens",
    "score": 664
   },
+  "118414": {
+   "first_seen": 1791874412,
+   "name": "CloseC",
+   "score": 2733
+  },
   "118457": {
    "first_seen": 1791244260,
    "name": "VIKTORIJA",
@@ -860,6 +902,11 @@
    "first_seen": 1790857800,
    "name": "Tarantula69",
    "score": 197575
+  },
+  "118461": {
+   "first_seen": 1791874412,
+   "name": "Panagurec",
+   "score": 7450931
   },
   "118470": {
    "first_seen": 1790857800,
@@ -987,6 +1034,11 @@
    "name": "Kristapz8256",
    "score": 1261
   },
+  "120232": {
+   "first_seen": 1791874412,
+   "name": "Ad Astara2",
+   "score": 260035
+  },
   "120527": {
    "first_seen": 1790857800,
    "name": "Georg E",
@@ -1005,11 +1057,13 @@
   },
   "120698": {
    "first_seen": 1791608094,
+   "missing_since": 1791874412,
    "name": "Bap1004",
    "score": 755759
   },
   "120699": {
    "first_seen": 1791608094,
+   "missing_since": 1791874412,
    "name": "NgoHung",
    "score": 785789
   },
@@ -1047,6 +1101,7 @@
   },
   "121343": {
    "first_seen": 1791763887,
+   "missing_since": 1791874412,
    "name": "KingKong2",
    "score": 51824
   },
@@ -1068,11 +1123,13 @@
   },
   "121507": {
    "first_seen": 1791609074,
+   "missing_since": 1791874412,
    "name": "close2",
    "score": 630
   },
   "121508": {
    "first_seen": 1791609074,
+   "missing_since": 1791874412,
    "name": "close3",
    "score": 572
   },
@@ -1118,6 +1175,7 @@
   },
   "121588": {
    "first_seen": 1791313933,
+   "missing_since": 1791874412,
    "name": "Massimo",
    "score": 75434922
   },
@@ -1125,6 +1183,106 @@
    "first_seen": 1791172670,
    "name": "FARMA 4",
    "score": 20229
+  },
+  "121633": {
+   "first_seen": 1791874412,
+   "name": "Ad Astara1",
+   "score": 258414
+  },
+  "121634": {
+   "first_seen": 1791874412,
+   "name": "Ad Astara3",
+   "score": 263775
+  },
+  "121635": {
+   "first_seen": 1791874412,
+   "name": "Ad Astara5",
+   "score": 260652
+  },
+  "121636": {
+   "first_seen": 1791874412,
+   "name": "Bob 1",
+   "score": 6075
+  },
+  "121637": {
+   "first_seen": 1791874412,
+   "name": "Bob 2",
+   "score": 6080
+  },
+  "121638": {
+   "first_seen": 1791874412,
+   "name": "Bob 4",
+   "score": 6061
+  },
+  "121639": {
+   "first_seen": 1791874412,
+   "name": "Papa 7",
+   "score": 9283
+  },
+  "121641": {
+   "first_seen": 1791874412,
+   "name": "Bob 3",
+   "score": 6067
+  },
+  "121642": {
+   "first_seen": 1791874412,
+   "name": "Papa 4",
+   "score": 6867
+  },
+  "121643": {
+   "first_seen": 1791874412,
+   "name": "Papa 5",
+   "score": 5998
+  },
+  "121644": {
+   "first_seen": 1791874412,
+   "name": "Papa 6",
+   "score": 7935
+  },
+  "121651": {
+   "first_seen": 1791874412,
+   "name": "Imp 2",
+   "score": 6073
+  },
+  "121656": {
+   "first_seen": 1791874412,
+   "name": "Ad Astara4",
+   "score": 262084
+  },
+  "121657": {
+   "first_seen": 1791874412,
+   "name": "Bob 5",
+   "score": 6026
+  },
+  "121663": {
+   "first_seen": 1791874412,
+   "name": "Imp 3",
+   "score": 6080
+  },
+  "121670": {
+   "first_seen": 1791874412,
+   "name": "Imp 1",
+   "score": 6052
+  },
+  "121671": {
+   "first_seen": 1791874412,
+   "name": "papa 1",
+   "score": 6009
+  },
+  "121672": {
+   "first_seen": 1791874412,
+   "name": "Papa 3",
+   "score": 6134
+  },
+  "121682": {
+   "first_seen": 1791874412,
+   "name": "Imp 4",
+   "score": 6075
+  },
+  "121683": {
+   "first_seen": 1791874412,
+   "name": "Papa 2",
+   "score": 7563
   },
   "121725": {
    "first_seen": 1790857800,
@@ -1162,6 +1320,11 @@
    "first_seen": 1790857800,
    "name": "0r1pt0",
    "score": 3712607
+  },
+  "121977": {
+   "first_seen": 1791874412,
+   "name": "Vizigot",
+   "score": 179406
   },
   "122014": {
    "first_seen": 1790857800,
@@ -1627,6 +1790,7 @@
   },
   "123922": {
    "first_seen": 1790857800,
+   "missing_since": 1791874412,
    "name": "Wint3rGhost",
    "score": 2434992
   },
@@ -1653,6 +1817,7 @@
   },
   "124059": {
    "first_seen": 1790857800,
+   "missing_since": 1791874412,
    "name": "O3y5m",
    "score": 536
   },
@@ -1663,6 +1828,7 @@
   },
   "124085": {
    "first_seen": 1791611636,
+   "missing_since": 1791874412,
    "name": "Jenny",
    "score": 2068629
   },
@@ -1704,6 +1870,7 @@
   },
   "130825": {
    "first_seen": 1791765880,
+   "missing_since": 1791874412,
    "name": "Tristana",
    "score": 18652
   },
@@ -1852,6 +2019,7 @@
   },
   "177114": {
    "first_seen": 1790857800,
+   "missing_since": 1791874412,
    "name": "Cvrc",
    "score": 2191910
   },
@@ -2014,6 +2182,11 @@
    "name": "Premium Shark",
    "score": 13632
   },
+  "3039614": {
+   "first_seen": 1791874412,
+   "name": "Ulka",
+   "score": 255149
+  },
   "31254850": {
    "first_seen": 1790857800,
    "name": "Atlas-496977533",
@@ -2122,13 +2295,20 @@
    "name": "Norman",
    "score": 9514725
   },
+  "39240167": {
+   "first_seen": 1791874412,
+   "name": "opera015",
+   "score": 114871
+  },
   "39765059": {
    "first_seen": 1790857800,
+   "missing_since": 1791874412,
    "name": "Alfa i Omega 0",
    "score": 13796606
   },
   "39766192": {
    "first_seen": 1791610206,
+   "missing_since": 1791874412,
    "name": "BWM",
    "score": 120089
   },
@@ -2139,6 +2319,7 @@
   },
   "40523332": {
    "first_seen": 1790857800,
+   "missing_since": 1791874412,
    "name": "G O A T 0",
    "score": 14271545
   },
@@ -2256,6 +2437,7 @@
   },
   "43742487": {
    "first_seen": 1790895306,
+   "missing_since": 1791874412,
    "name": "Hanno",
    "score": 241870
   },
@@ -2281,6 +2463,7 @@
   },
   "45346288": {
    "first_seen": 1790895306,
+   "missing_since": 1791874412,
    "name": "Granatiere",
    "score": 169456
   },
@@ -2321,6 +2504,7 @@
   },
   "48459132": {
    "first_seen": 1790895306,
+   "missing_since": 1791874412,
    "name": "Kapitan7522",
    "score": 570395
   },
@@ -2343,11 +2527,13 @@
   },
   "49569896": {
    "first_seen": 1790857800,
+   "missing_since": 1791874412,
    "name": "Assasins5535659",
    "score": 936913
   },
   "49569897": {
    "first_seen": 1790857800,
+   "missing_since": 1791874412,
    "name": "Hipolita6534651",
    "score": 588590
   },
@@ -2378,6 +2564,7 @@
   },
   "51170973": {
    "first_seen": 1790895306,
+   "missing_since": 1791874412,
    "name": "Amiral1502",
    "score": 196646
   },
@@ -2477,11 +2664,13 @@
   },
   "53794838": {
    "first_seen": 1791610206,
+   "missing_since": 1791874412,
    "name": "QESHM",
    "score": 22651
   },
   "53803136": {
    "first_seen": 1790895306,
+   "missing_since": 1791874412,
    "name": "Fariq",
    "score": 86968
   },
@@ -2542,11 +2731,13 @@
   },
   "54858807": {
    "first_seen": 1790857800,
+   "missing_since": 1791874412,
    "name": "Number One 0",
    "score": 14185240
   },
   "54866483": {
    "first_seen": 1790857800,
+   "missing_since": 1791874412,
    "name": "I am the one 0",
    "score": 14161104
   },
@@ -3210,6 +3401,21 @@
    "name": "Mousy",
    "score": 1928531
   },
+  "68308648": {
+   "first_seen": 1791874412,
+   "name": "666141",
+   "score": 1280
+  },
+  "68309072": {
+   "first_seen": 1791874412,
+   "name": "555",
+   "score": 1218
+  },
+  "68309745": {
+   "first_seen": 1791874412,
+   "name": "444",
+   "score": 1269
+  },
   "68311766": {
    "first_seen": 1790895306,
    "name": "hadu3589498",
@@ -3471,6 +3677,16 @@
    "name": "Marcipan_A69546",
    "score": 13349417
   },
+  "72108381": {
+   "first_seen": 1791874412,
+   "name": "fanSte",
+   "score": 320488
+  },
+  "72108384": {
+   "first_seen": 1791874412,
+   "name": "Kremenko",
+   "score": 450757
+  },
   "72111185": {
    "first_seen": 1791384054,
    "name": "Donering 1 2146",
@@ -3543,6 +3759,7 @@
   },
   "73196589": {
    "first_seen": 1791611636,
+   "missing_since": 1791874412,
    "name": "Zeus",
    "score": 63
   },
@@ -3643,10 +3860,20 @@
    "name": "maha",
    "score": 1154
   },
+  "75370642": {
+   "first_seen": 1791874412,
+   "name": "Pr0me0",
+   "score": 52438
+  },
   "75372634": {
    "first_seen": 1791762778,
    "name": "imovie1",
    "score": 5483714
+  },
+  "75900559": {
+   "first_seen": 1791874412,
+   "name": "Daedalus-786151",
+   "score": 419
   },
   "7638911": {
    "first_seen": 1790857800,
