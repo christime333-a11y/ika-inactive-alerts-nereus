@@ -17,6 +17,7 @@
   },
   "111543": {
    "first_seen": 1791759239,
+   "missing_since": 1791872524,
    "name": "kkdd",
    "score": 6125722
   },
@@ -570,6 +571,11 @@
    "name": "dSensei051",
    "score": 22277
   },
+  "115246": {
+   "first_seen": 1791872524,
+   "name": "Rag",
+   "score": 93480
+  },
   "115260": {
    "first_seen": 1790857800,
    "name": "Trimeur",
@@ -605,6 +611,7 @@
   },
   "115735": {
    "first_seen": 1790857800,
+   "missing_since": 1791872524,
    "name": "Zane Allen6782",
    "score": 1604281
   },
@@ -651,6 +658,7 @@
   },
   "116578": {
    "first_seen": 1791759239,
+   "missing_since": 1791872524,
    "name": "Marbelo",
    "score": 1245
   },
@@ -673,6 +681,7 @@
   },
   "116889": {
    "first_seen": 1791759239,
+   "missing_since": 1791872524,
    "name": "Mayoo",
    "score": 1100
   },
@@ -770,6 +779,7 @@
   },
   "117857": {
    "first_seen": 1791759239,
+   "missing_since": 1791872524,
    "name": "Mehdi",
    "score": 964
   },
@@ -815,6 +825,11 @@
    "first_seen": 1791609074,
    "name": "close5",
    "score": 402
+  },
+  "117968": {
+   "first_seen": 1791872524,
+   "name": "Torrentas",
+   "score": 29177528
   },
   "118038": {
    "first_seen": 1790857800,
@@ -896,6 +911,7 @@
   },
   "118976": {
    "first_seen": 1791606646,
+   "missing_since": 1791872524,
    "name": "Alguinom",
    "score": 8356163
   },
@@ -1041,6 +1057,7 @@
   },
   "121436": {
    "first_seen": 1791762778,
+   "missing_since": 1791872524,
    "name": "Kong5",
    "score": 5223
   },
@@ -1728,16 +1745,19 @@
   },
   "1519333": {
    "first_seen": 1791759239,
+   "missing_since": 1791872524,
    "name": "ROO6F",
    "score": 9283
   },
   "1519334": {
    "first_seen": 1791759239,
+   "missing_since": 1791872524,
    "name": "ROO8F",
    "score": 51698
   },
   "1519335": {
    "first_seen": 1791759239,
+   "missing_since": 1791872524,
    "name": "ROO5F",
    "score": 12813
   },
@@ -1980,6 +2000,7 @@
   },
   "26513035": {
    "first_seen": 1790857800,
+   "missing_since": 1791872524,
    "name": "Not Bouncy",
    "score": 83697
   },
@@ -1987,6 +2008,11 @@
    "first_seen": 1790857800,
    "name": "Δράκων 05338324",
    "score": 2413507
+  },
+  "30203078": {
+   "first_seen": 1791872524,
+   "name": "Premium Shark",
+   "score": 13632
   },
   "31254850": {
    "first_seen": 1790857800,
@@ -2071,6 +2097,7 @@
   },
   "35518625": {
    "first_seen": 1790857800,
+   "missing_since": 1791872524,
    "name": "Hazel",
    "score": 8173889
   },
@@ -2433,6 +2460,7 @@
   },
   "53761311": {
    "first_seen": 1790857800,
+   "missing_since": 1791872524,
    "name": "Vic7",
    "score": 68958921
   },
@@ -2496,16 +2524,19 @@
   },
   "54820424": {
    "first_seen": 1790857800,
+   "missing_since": 1791872524,
    "name": "kamila91",
    "score": 8453204
   },
   "54820873": {
    "first_seen": 1790857800,
+   "missing_since": 1791872524,
    "name": "Noo1",
    "score": 3157817
   },
   "54821308": {
    "first_seen": 1790857800,
+   "missing_since": 1791872524,
    "name": "whisper70",
    "score": 19119089
   },
@@ -2848,6 +2879,7 @@
   },
   "61238406": {
    "first_seen": 1790895306,
+   "missing_since": 1791872524,
    "name": "Tenent",
    "score": 33882
   },
@@ -3066,6 +3098,11 @@
    "first_seen": 1790857800,
    "name": "peterkeusa",
    "score": 193567
+  },
+  "66117888": {
+   "first_seen": 1791872524,
+   "name": "Trinattus",
+   "score": 64679
   },
   "66641269": {
    "first_seen": 1790857800,
@@ -3594,6 +3631,11 @@
    "first_seen": 1791870970,
    "name": "DOKJA",
    "score": 854195
+  },
+  "75354462": {
+   "first_seen": 1791872524,
+   "name": "Atlas-512970445",
+   "score": 697
   },
   "75367555": {
    "first_seen": 1791606646,
