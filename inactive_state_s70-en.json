@@ -34,11 +34,13 @@
   },
   "111592": {
    "first_seen": 1791241552,
+   "missing_since": 1792081115,
    "name": "FIFA",
    "score": 1534658
   },
   "111593": {
    "first_seen": 1791243462,
+   "missing_since": 1792081115,
    "name": "BAKTERIJA LT",
    "score": 12570888
   },
@@ -102,6 +104,7 @@
   },
   "112224": {
    "first_seen": 1791241552,
+   "missing_since": 1792081115,
    "name": "SALIUTAS LT",
    "score": 1521422
   },
@@ -123,6 +126,7 @@
   },
   "112369": {
    "first_seen": 1791756548,
+   "missing_since": 1792081115,
    "name": "Zlyga",
    "score": 2108060
   },
@@ -248,6 +252,7 @@
   },
   "113443": {
    "first_seen": 1791241552,
+   "missing_since": 1792081115,
    "name": "LIULIA",
    "score": 20741
   },
@@ -270,6 +275,7 @@
   },
   "113741": {
    "first_seen": 1791242578,
+   "missing_since": 1792081115,
    "name": "PLEPUTE",
    "score": 5241450
   },
@@ -281,6 +287,7 @@
   },
   "113770": {
    "first_seen": 1791757720,
+   "missing_since": 1792081115,
    "name": "Patrool",
    "score": 723721
   },
@@ -389,6 +396,11 @@
    "missing_since": 1791870970,
    "name": "maniac",
    "score": 1100
+  },
+  "114272": {
+   "first_seen": 1792081115,
+   "name": "NewYorkCity",
+   "score": 55930
   },
   "114488": {
    "first_seen": 1790857800,
@@ -2893,6 +2905,7 @@
   },
   "56948199": {
    "first_seen": 1790857800,
+   "missing_since": 1792081115,
    "name": "Isaac de Kraken",
    "score": 60
   },
@@ -3461,6 +3474,7 @@
   },
   "68276321": {
    "first_seen": 1791755645,
+   "missing_since": 1792081115,
    "name": "Argos 1",
    "score": 182
   },
@@ -3597,6 +3611,7 @@
   },
   "71011034": {
    "first_seen": 1792012028,
+   "missing_since": 1792081115,
    "name": "ASSD Roko",
    "score": 13689
   },
@@ -3909,6 +3924,11 @@
    "name": "portu",
    "score": 610
   },
+  "76946001": {
+   "first_seen": 1792081115,
+   "name": "Kozodirek",
+   "score": 33413
+  },
   "76947907": {
    "first_seen": 1791755645,
    "name": "Machu Picchu",
@@ -4014,6 +4034,11 @@
    "first_seen": 1791942993,
    "name": "philou",
    "score": 61
+  },
+  "78602148": {
+   "first_seen": 1792081115,
+   "name": "Reta90",
+   "score": 113
   },
   "78611554": {
    "first_seen": 1791942993,
